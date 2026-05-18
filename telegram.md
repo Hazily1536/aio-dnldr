@@ -7,6 +7,284 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/28 21:30
+---
+
+## WithYashar — post 11574
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تامین‌اجتماعی: دریافت فیش حقوقی اردیبهشت‌ماه فعلاً مقدور نیست و زمان آن متعاقباً اطلاع‌رسانی خواهد شد.
+@withyashar
+</div>
+
+## WithYashar — post 11573
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نظام وظیه: ۱۸ تا ۵۰ ساله ها بیایید خودتونو معرفی کنید که اگه جنگ شد بفرستیمتون با آمریکاییا بجنگید، تو محلتی که تعیین شده اگه نیایید تمام مزایاتون که به کارت پایان خدمت مربوطه قطع میشه
+@withyashar
+</div>
+
+## WithYashar — post 11572
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تا یکشنبه میزنم، قول میدم
+</div>
+
+## mwarmonitor — post 9265
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴آلتمن و OpenAI در دادگاه تاریخی هوش مصنوعی، ماسک را شکست دادند
+
+🔰یک هیئت منصفه علیه ایلان ماسک در پرونده شکایت او از OpenAI رای داد.
+
+🔸یک هیئت منصفه فدرال به اتفاق آرا رای داد که ایلان ماسک در شکایت خود علیه OpenAI و مدیران ارشد آن بیش از حد تعلل کرده است؛ یک شکست بزرگ برای رئیس تسلا در رویارویی با رقیب دیرینه‌اش، سم آلتمن.
+
+🔹چرا این موضوع اهمیت دارد: ماسک به دنبال میلیاردها دلار خسارت و همچنین برکناری آلتمن از OpenAI بود و استدلال می‌کرد که او مأموریت اولیه و غیرانتفاعی این سازمان را به خاطر سود مالی رها کرده است. اما، مگر اینکه قاضی حکم هیئت منصفه را وتو کند، ماسک دست خالی از این دادگاه خارج خواهد شد.
+
+🔸تحولات فوری خبر: یک هیئت منصفه فدرال روز دوشنبه به اتفاق آرا شکایت ۱۵۰ میلیارد دلاری ایلان ماسک علیه OpenAI و سم آلتمن را رد کرد.
+
+🔹اعضای هیئت منصفه همچنین رای دادند که ادعاهای ماسک درباره «خیانت در امانت خیریه» علیه OpenAI، آلتمن، گرگ براکمن و مایکروسافت، به دلیل مشمول زمان شدن (اتمام مهلت قانونی شکایت) فاقد اعتبار است.
+
+🔸این تصمیم، پرونده‌ای را که ساختار قدرت در صنعت هوش مصنوعی را تهدید به دگرگونی می‌کرد، به سرعت متوقف ساخت.
+
+📌نکات پنهان خبر: این تصمیم به این معنی است که نه OpenAI، نه مدیران آن و نه مایکروسافت، در قبال ادعاهای مطرح شده توسط ماسک مسئولیتی نخواهند داشت.
+قاضی دادگاه تصمیم هیئت منصفه را تایید کرد.
+کلام آخر: ماسک خیلی دیر اقدام کرد.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341887
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: VP Vance speaks at manufacturing plant in Missouri https://twitter.com/i/broadcasts/1pJdRbpzgpgKW
+</div>
+
+## FoxNewsTwitter — post 341886
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: An American missionary has tested positive for Ebola.
+
+U.S. missionary organization Serge says one of its medical missionaries in the Democratic Republic of Congo, Dr. Peter Stafford, has tested positive for the Bundibugyo strain of Ebola after treating patients at a hospital.
+
+Serge says two other missionaries who treated patients in the region, including Stafford’s wife, remain asymptomatic and are following quarantine protocols as officials respond to a growing Ebola outbreak in the region.
+</div>
+
+## FoxNewsTwitter — post 341885
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341885_1779127203.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+RT @FoxBusiness: FOX BUSINESS EXCLUSIVE: Kevin Warsh will be sworn in Friday as the next chairman of the Federal Reserve during a White House ceremony hosted by President Trump, officially concluding a selection process that began in the summer of 2025.
+
+Warsh assumes the role following last week’s Senate confirmation, which passed largely along party lines. He succeeds Jerome Powell, whose term as Fed chair expired Friday.
+</div>
+
+## FoxNewsTwitter — post 341884
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341884_1779127204.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+Internet culture meets the Catholic Church:
+
+Pope Leo jumps into the viral “67” TikTok trend after kids show him how it’s done.
+</div>
+
+## FoxNewsTwitter — post 341883
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌Fox News (Twitter/X)
+
+BREAKING: Jury unanimously finds OpenAI not liable in Elon Musk lawsuit that alleged breach of charitable mission, saying statute of limitations bars the claims
+</div>
+
+## FoxNewsTwitter — post 341882
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341882_1779127207.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: Alex Murdaugh's legal team reveals they’ve received new information about the disgraced South Carolina lawyer’s murder case since trial ended.
+
+"We have received a number of pieces of information post-trial. Some of them came just to us."
+
+"Once the trial was over, we don't have the power to subpoena. We don't have the power to really investigate it all." – Dick Harpootlian, Murdaugh's lead defense
+</div>
+
+## pm_afshaa — post 90978
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90978_1779127209.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴تیتر نیویورک پست:
+ایالات متحده در آستانه از سرگیری نبرد با ایران با تمام توان است!
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90977
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90977_1779127210.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ به العربیه: ما در حال انجام کاری بزرگ هستیم و پیروزی در راهه.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90976
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90976_1779127211.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ به نیویورک پست: ایران میدونه که به‌زودی چه اتفاقی براش میوفته.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## mamlekate — post 103555
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📝 اعتراف پزشکیان به فروپاشی زیرساخت‌های انرژی و بن‌بست اقتصادی: گفت‌وگو نکنیم، چه کنیم؟
+
+مسعود پزشکیان، رییس دولت جمهوری اسلامی، با اذعان به آسیب گسترده به زیرساخت های انرژی، کاهش تولید و کسری روزانه ۵۰ میلیون لیتر بنزین، دشواری صادرات نفت و گرانی پیش رو، روایت رسمی درباره بی اثر بودن حملات را زیر سوال برد و به مخالفان مذاکره گفت: «اگر گفت وگو نکنیم، چه کار کنیم؟»
+
+@mamlekate
+</div>
+
+## IranIntlTV — post 337822
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پای فراخوان‌‌های شبانه و نمایش حکومتی سلاح در خیابان‌های ایران و صدا و سیمای جمهوری اسلامی به رسانه‌های بین‌المللی هم رسید. سی‌ان‌ان در گزارشی نوشت جمهوری اسلامی حامیانش را برای نمایش آمادگی برای جنگ بسیج می‌کند و با گذشت بیش از ده هفته از زمان شروع جنگ این تجمعات با حمایت نهادهای حکومتی و نظامی همچنان ادامه دارد.
+
+
+گفت‌وگو با حسین قاضیان، جامعه‌شناس
+@iranintltv
+</div>
+
+## IranIntlTV — post 337821
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337821_1779127212.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دادستان‌ها در دادگاه رسیدگی به پرونده حمله با چاقو به «پوریا زراعتی»، مجری شبکه ایران‌اینترنشنال، در لندن اعلام کردند این حمله را گروهی از اتباع رومانیایی انجام دادند که به‌عنوان نیروهای نیابتی جمهوری اسلامی عمل می‌کردند.
+
+به گفته دادستان‌ها، این حمله را طرف سومی که به نمایندگی از حکومت ایران عمل می‌کرد، سفارش داده بود.
+دادستان در جریان این جلسه که برای محاکمه دو نفر از سه متهم در دادگاه کیفری، برگزار شد، این حادثه را «عملی خشونت‌آمیز، برنامه‌ریزی‌شده و مبتنی بر شناسایی قبلی هدف» توصیف کردند.
+
+دادستان اتکینسون گفت: «در سال‌های اخیر، از سال ۲۰۰۵ به این سو، جمهوری اسلامی کمتر به عوامل خود اتکا کرده و بیش از پیش به استفاده از نیروهای نیابتی، از جمله باندهای جنایی، روی آورده است تا تهدیدهای خشونت‌آمیز خود را از طریق آن‌ها عملی کند.»
+https://iranintl.com/202605189885
+</div>
+
+## IranIntlTV — post 337820
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337820_1779127213.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مهدی مهدوی‌آزاد در برنامه «چشم‌انداز» گفت برخی افراد در ساختار جمهوری اسلامی، با وجود آن‌که ازسرگیری عملیات نظامی را قریب‌الوقوع و اجتناب‌ناپذیر می‌دانند، با طرح درخواست قتل بنیامین نتانیاهو و دونالد ترامپ به آتش جنگ دامن می‌زنند و زیرساخت‌های ایران را در معرض خطر قرار می‌دهند.
+@iranintltv
+</div>
+
+## IranIntlTV — post 337819
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+چند ساعت بعد از این‌که تهران اعلام کرد به پیشنهاد آخر واشینگتن پاسخ داده، یک مقام ارشد آمریکایی به آکسیوس گفت پاسخ جمهوری اسلامی ناکافی بوده و احتمال از سرگیری جنگ را بیش از پیش می‌کند. پنتاگون گزینه‌های نظامی علیه جمهوری اسلامی را آماده و به دونالد ترامپ ارائه کرده. براساس گزارش‌ها ده‌‌ها هوایپمای حامل مهمات و تجهیزات نظامی ایالات متحده به اسرائیل منتقل شدن. نیویورک‌تایمز اقدامات آمریکا و اسرائیل را بزرگ‌ترین آماده‌سازی از زمان آتش‌بس توصیف کرده و نوشته دو کشور برای ازسرگیری احتمالی حملات به ایران، حتی در همین هفته آماده می‌شوند.
+
+گفت‌وگو با سمیرا قرائی و بابک اسحاقی، خبرنگاران ایران‌اینترنشنال
+
+@iranintltv
+</div>
+
+## FarsiVOA — post 218080
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺اختصاصی؛ مقام دولت آمریکا درباره ادعای «لغو تحریم‌های رژیم ایران در زمان مذاکرات»: نادرست است
+
+▪️دولت ایالات متحده روز دوشنبه ۲۸ اردیبهشت گزارش منتشرشده در رسانه‌های نزدیک به حکومت ایران درباره تعلیق تحریم‌های نفتی تهران در جریان مذاکرات با آمریکا را رد کرد و آن را «نادرست» خواند.
+
+⬇️ بیشتر بخوانید:
+
+https://ir.voanews.com/a/white-house-official-says-iran-sanctions-continue-during-peace-negotiations/8151252.html/?nocach=1
+</div>
+
+## Dirty_Kids — post 389696
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رادان گفته: از وقتی جنگ شروع شده 6500نفرو دستگیر کردیم، بازم میکنیم..
+
+شش هزار و پانصد بار کُص ننت🖕
+
+‌
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389695
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389695_1779127215.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خیلی تاثیرگذار بود
+آخرش قشنگ تموم شد
+
++ خیلی منطقی عربستان و پاکستان با خودشون جمع میبندن:)))) امروز پاکستان نیرو فرستاده عربستان واسه مقابله احتمالی
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 120924
+
+<div align="center">
+  <a href="telegram/content/alonews_120924_1779127217.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈حزب‌الله: یک جنگندهٔ اسرائیلی را با موشک زمین به هوا هدف قرار دادیم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/28 21:13
 ---
 
