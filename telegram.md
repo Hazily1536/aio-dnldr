@@ -7,6 +7,44 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/31 02:32
+---
+
+## WithYashar — post 11806
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+https://t.me/boost/withyashar
+
+۵۰۲ بوس تا آزادی استیکز ثثحامله 😅😂
+</div>
+
+## FoxNewsTwitter — post 342029
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342029_1779318166.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+FOX NEWS REPORT: Former Cuban President Raúl Castro was indicted for allegedly ordering the 1996 attack on civilian airplanes that were rescuing people from the communist nation, leaving four people dead.
+@BillMelugin_ has the latest.
+</div>
+
+## FarsiVOA — post 218262
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺حساب رسمی کاخ سفید عکس «علی خامنه‌ای» را در میان «دشمنان خنثی‌‌شده آمریکا به دست پرزیدنت ترامپ» منتشر کرد
+
+▪️حساب رسمی کاخ سفید در شبکه اجتماعی ایکس، روز چهارشنبه ۳۰ اردیبهشت در پُستی، عکسی از رئيس جمهوری آمریکا، دونالد ترامپ را منتشر کرد که و زیر آن تصاویری از «دشمنان خنثی‌شده آمریکا بدست پرزیدنت دونالد جی. ترامپ» منتشر کرد.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/8152146.html
+@FarsiVOA
+</div>
+
+---
 📅 بروزرسانی: 1405/02/31 02:22
 ---
 
