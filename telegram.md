@@ -7,6 +7,148 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/31 17:03
+---
+
+## mwarmonitor — post 9410
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔰اورتاگوس هشدار داد ایران در تلاش است «زمان بخرد» در حالی که حزب‌الله مانع صلح در لبنان می‌شود.
+
+🔸مورگان اورتاگوس، مقام سابق دولت ترامپ، به فاکس نیوز دیجیتال گفت که ایران در طول تاریخ از مذاکرات برای به تعویق انداختن روندها استفاده کرده است، در حالی که تأکید کرد حزب‌الله — نه خود لبنان — همچنان بزرگ‌ترین مانع صلح بین اسرائیل و همسایگانش به شمار می‌رود.
+
+🔴در ادامه تحلیل اورتگاس...
+چیزی که من رئیس‌جمهور را به آن ترغیب می‌کنم این است که در تله‌ای که ایرانی‌ها دوست دارند پهن کنند، نیفتد؛ کاری که در ۴۷ سال گذشته انجام داده‌اند، یعنی طول دادن مسائل و زمان خریدن.
+🔹آن‌ها رژیمی هستند که یک حکومت دینیِ انقلابی به شمار می‌رود. همان‌طور که امشب در سخنرانی‌ام به آن اشاره می‌کنم، آن‌ها تنها بقایایی از آن چیزی هستند که قبلاً بوده‌اند. رئیس‌جمهور به شکلی جدی آن‌ها را تضعیف کرده است، روشی که از زمان تأسیس جمهوری اسلامی توسط هیچ‌کس انجام نشده بود.
+🔹اما معیارهای یک توافق خوب کاملاً مشخص است. پرزیدنت ترامپ در سال ۲۰۱۶ علیه برجام (JCPOA) - یعنی همان توافق هسته‌ای شکست‌خورده پرزیدنت اوباما - مبارزه کرد؛ او آن زمان درست می‌گفت و الان هم درست می‌گوید. معاون رئیس‌جمهور نیز امروز دوباره تأکید کرد که ایران هرگز به سلاح هسته‌ای دست پیدا نخواهد کرد.
+🔸بنابراین، من مطمئنم که رئیس‌جمهور و تیم او معیارهای یک توافق خوب را درک می‌کنند؛ توافقی که قطعاً نمی‌تواند شبیه به چیزی مثل برجام باشد.
+
+🔰«این حزب‌الله بود که تصمیم گرفت وارد این جنگ در ایران [لبنان] شود. دولت لبنان این تصمیم را نگرفت؛ این حزب‌الله بود که برای کشور لبنان تصمیم گرفت تا یک بار دیگر، آن را وارد جنگ کند.
+🔹بنابراین، من فقط می‌خواهم بگویم که فکر می‌کنم هر دو طرف، یعنی اسرائیل و لبنان، در موقعیتی هستند که خواهان صلح‌اند، اما هر دو طرف این را درک می‌کنند که حزب‌الله همیشه یک مانع در راه صلح خواهد بود.
+🔸حزب‌الله نجات‌دهنده مردم شیعه نیست؛ در واقع، آن‌ها همان کسانی هستند که یوغ و بار سنگین را بر گردن مردم شیعه می‌اندازند و به دلیل امتناعشان از داشتن یک رابطه مسالمت‌آمیز با همسایگان، اطمینان حاصل می‌کنند که این بار همان‌جا باقی بماند.»
+
+🔴سناتور لیندسی گراهام ؛
+
+🔹تحلیل بسیار خوبی از اهرم فشارهایی که ایالات متحده به‌دلیل اقدامات جسورانه رئیس‌جمهور ترامپ در اختیار دارد.
+خواندنی است.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 9409
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_9409_1779370399.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## FoxNewsTwitter — post 342038
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342038_1779370401.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+An American doctor who treated Ebola patients in Uganda has arrived in the Czech Republic after being evacuated from the region.
+
+The move comes as health officials race to contain a growing Ebola outbreak tied to the rare Bundibugyo strain, a variant with no approved vaccine or treatment.
+
+Another U.S. doctor infected during the outbreak was flown to Germany for care after developing symptoms while working in Congo. The WHO has already declared the outbreak a global health emergency.
+</div>
+
+## Persian_Trend_Official — post 14593
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14593_1779370404.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ویدئویی از حملات به یکی از پایگاه های هوایی ایران
+
+💢انهدام تعدادی از هواگردها درون آشیانه و همچنین هواپیماهای فوکر نیروی دریایی بر روی زمین است
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 14592
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14592_1779370405.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️روسیه یکی از برندگان جنگ جمهوری اسلامی
+
+💢روبل روسیه بهترین ارز عملکردی در این فصل است و حدود ۱۲٪ افزایش یافته و به ۷۲.۶ در هر دلار رسیده است قوی‌ترین نرخ از اوایل سال ۲۰۲۳
+
+💢عامل اصلی: افزایش درآمدهای نفتی پس از آغاز جنگ آمریکا و اسرائیل علیه جمهوری اسلامی.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## alonews — post 121562
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اخبار جنگ الونیوز AloNews pinned «
+⭕️
+⭕️اپلیکیشن‌ها را فقط از Google Play یا App Store نصب کنید. 
+🔴فایل‌هایی که در تلگرام، کانال‌ها، گروه‌ها یا از طریق لینک مستقیم دانلود منتشر می‌شوند، اگر از منبع معتبر نباشند می‌توانند خطرناک باشند. 
+🔴نصب این فایل‌ها ممکن است باعث شود اطلاعات شخصی شما، رمزها،…»
+</div>
+
+## alonews — post 121561
+
+<div align="center">
+  <a href="telegram/content/alonews_121561_1779370406.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️
+⭕️اپلیکیشن‌ها را فقط از Google Play یا App Store نصب کنید.
+
+
+🔴فایل‌هایی که در تلگرام، کانال‌ها، گروه‌ها یا از طریق لینک مستقیم دانلود منتشر می‌شوند، اگر از منبع معتبر نباشند می‌توانند خطرناک باشند.
+
+
+🔴نصب این فایل‌ها ممکن است باعث شود اطلاعات شخصی شما، رمزها، حساب‌ها یا حتی دارایی‌های کریپتویی‌تان در خطر قرار بگیرد.
+
+
+🔴قبل از نصب هر برنامه یا باز کردن هر فایل، حتماً مطمئن شوید که منبع آن قابل اعتماد است.
+
+
+🔴امنیت را ساده نگیرید؛ یک کلیک اشتباه می‌تواند خسارت زیادی ایجاد کند.
+
+
+⭕️ تحریم ها ارتباطی به موجودی کریپتو شما در تراست والت یا سایر کیف پول ها ندارند.
+
+
+🔴درصورتی که کلید والت خودتان را در برنامه غیر مطمئن وارد کرده اید حتما نسبت به تغییر کلید و انتقال موجودی به والت امن اقدام کنید.
+
+
+✅@AloNews
+</div>
+
+## alonews — post 121559
+
+<div align="center">
+  <a href="telegram/content/alonews_121559_1779370407.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈تصاویری از حملات به لبنان
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/31 16:53
 ---
 
