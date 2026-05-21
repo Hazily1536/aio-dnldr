@@ -7,6 +7,95 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/31 12:42
+---
+
+## WithYashar — post 11822
+
+<div align="center">
+  <img src="telegram/content/WithYashar_11822_1779354767.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+صدا و سیما : تا عید غدیر مجسمه‌ای ۱۵ متری از مشت علی خامنه‌ای در میدان انقلاب تهران نصب میشه‌.
+@withyashar
+</div>
+
+## WithYashar — post 11821
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فاکس نیوز در گزارشی به نقل از عمر محمد، کارشناس مبارزه با تروریسم، نوشت سبک زندگی مجتبی خامنه‌ای به سطحی از ناپدید شدن رسیده که اسامه بن لادن سال‌ها در ایبت‌آباد تجربه می‌کرد؛ زندگی بدون ارتباط مخابراتی و با اتکا به پیک‌های مورد اعتماد.
+@withyashar
+</div>
+
+## DEJradio — post 4794
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4794_1779354768.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨
+🔸 خبر ۲۱
+چهارشنبه ۳۰ اردیبهشت ۱۴۰۵
+
+#خبر۲۱
+@DEJradio
+</div>
+
+## IranIntlTV — post 338216
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_338216_1779354769.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ژنرال کنت ویلزباخ، رییس ستاد نیروی هوایی ایالات متحده، گفت پهپادهای ام‌کیو-۹ ریپر ابزار عملیاتی کلیدی این نیرو در جنگ علیه جمهوری اسلامی بوده‌اند. او تاکید کرد ام‌کیو-۹ «ارزشمندترین بازیگر» این جنگ بود.
+جزییات بیشتر با احمد صمدی، خبرنگار ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## IranIntlTV — post 338215
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_338215_1779354771.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فاکس نیوز در گزارشی به نقل از عمر محمد، کارشناس مبارزه با تروریسم، نوشت سبک زندگی مجتبی خامنه‌ای به سطحی از ناپدید شدن رسیده که اسامه بن لادن سال‌ها در ایبت‌آباد تجربه می‌کرد؛ زندگی بدون ارتباط مخابراتی و با اتکا به پیک‌های مورد اعتماد.
+
+گفت‌وگو با محمد جواد اکبرین، عضو تحریریه ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## BBCPersian — post 281672
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻 حملات هوایی اسرائیل به مناطقی در جنوب لبنان
+
+شبکه تلویزیونی الجزیره گزارش کرده که اسرائیل حملات هوایی متعددی را به حومه شهر تول در جنوب لبنان انجام داده است.
+
+این حمله در ادامه حملات شبانه به شهرهای کفر دونین، فرون، سربینه و طیر دبا است.
+
+حملات اسرائیل همچنین مناطقی در نزدیکی شهر النمیریه در جنوب لبنان را هدف قرار داده است.
+
+حملات اسرائیل علیرغم تمدید «آتش بس» بین اسرائیل و لبنان در هفته گذشته انجام می‌شود.
+
+https://bbc.in/4dHdjjR
+@BBCPersian
+</div>
+
+## alonews — post 121501
+
+<div align="center">
+  <a href="telegram/content/alonews_121501_1779354773.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رامی گرا رئیس پیشین سرویس اروپای موساد: کل این داستان غیرقابل باورست. احمدی‌نژاد هرگز به عنوان یک رهبر انقلاب معرفی نشده بود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/31 12:32
 ---
 
