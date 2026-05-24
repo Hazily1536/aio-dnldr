@@ -7,6 +7,125 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/04 01:32
+---
+
+## FarsiVOA — post 218571
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺وزیر خارجه آمریکا «درخواست‌های حزب‌الله» برای «سرنگونی دولت لبنان» را محکوم کرد
+
+◾️مارکو روبیو، وزیر خارجه ایالات متحده، روز یکشنبه ۳ خرداد به «درخواست‌های خطرناک» حزب‌الله «برای سرنگون کردن» دولت لبنان واکنش نشان داد و گفت «حزب‌الله» با اقدامات خود تلاش می‌کند لبنان را بار دیگر به «هرج‌ومرج و ویرانی» بکشاند و ثبات دولت منتخب این کشور را تضعیف کند.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/marco-rubio-says-hezbollah-trying-to-drag-lebanon-back-into-chaos/8153359.html
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 14897
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14897_1779660163.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴اواکس E3 ارتش امریکا بر فراز خلیج فارس در حال گشت زنی است.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Dirty_Kids — post 390114
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390114_1779660164.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دیگه به تهه انبار رسیدن، این پرستو پیر پاتالا رو فرستادن
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390113
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+این تنگه هم شد مثل اینترنت، بار اول بستنش سخت بود، از این به بعد هر اتفاقی تو دنیا بیفته اول تنگه بسته میشه.
+اروپا آمریکا کونتون پارس
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390112
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_390112_1779660167.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+توافق بشه یا نشه، کل دنیا باهاتون صلح بکنن یا نکنن، ما دست از سرتون برنمی‌داریم، چون هیچی به قبل ۱۸ دی برنمی‌گرده…
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390111
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_390111_1779660167.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 اولین تصویر منتشر شده از شخصی که دیشب اطراف کاخ سفید شروع به تیراندازی کرد و درنهایت کشته شد
+
+این شخص 21 ساله به اسم "نصیر بِست" که مشکلات روانی داشت، معتقد بود "عیسی مسیحه".
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390110
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390110_1779660168.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+زنده‌یاد مانوک خدابخشیان: «این آقای ترامپ خیلی ایرانی‌ها رو دوست داره…
+شما نگاه کن؛ میتونه رژیم رو بزنه و اگر بزنه بد میزنه…
+این همه فرصت‌سوزی میکنه که یک راه‌حلی پیدا کنه که اینها رو جارو کنه. اینقدر سعی میکنه مانور بده تا بدون جنگ این رژیم را مچاله کنه، باید بهش آفرین گفت...»
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390109
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390109_1779660170.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 پیش‌بینی‌های کاملا دقیق و حرفه‌ای نوستراداموس زمانه؛ استاد خوش‌چشم تحلیلگر صدا و سیما.
+
++ فقط اینطوری کار می‌کنه که هر چی گفت، باید برعکسش کنی.
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 122451
+
+<div align="center">
+  <a href="telegram/content/alonews_122451_1779660172.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💢فوری/پرواز جنگنده‌های آمریکایی در مرز ایران 
+🚨 @AkhbareFouri
+</div>
+
+---
 📅 بروزرسانی: 1405/03/04 01:22
 ---
 
