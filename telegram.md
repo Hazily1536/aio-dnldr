@@ -7,6 +7,155 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/04 17:42
+---
+
+## VahidOOnLine — post 242129
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242129_1779718366.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ولادیمیر پوتین، رئیس‌جمهوری روسیه، روز دوشنبه چهارم خرداد ماه، در گفتگویی تلفنی با حمد بن عیسی آل خلیفه، پادشاه بحرین، بر ضرورت حل‌وفصل سریع بحران پیرامون ایران از طریق راهکارهای سیاسی و دیپلماتیک تاکید کرد.
+
+بر اساس بیانیه کرملین، دو طرف در این تماس بر تعهد برای تقویت همکاری‌های روسیه و بحرین در حوزه‌های تجارت، اقتصاد، امور مالی، سرمایه‌گذاری و همچنین همکاری‌های فرهنگی و بشردوستانه تاکید کردند.
+
+پوتین و پادشاه بحرین همچنین در بررسی تحولات خاورمیانه، بر لزوم راه‌حلی سریع به راه‌حلی سیاسی و دیپلماتیک برای بحران مربوط به ایران، با در نظر گرفتن کامل منافع همه کشورهای منطقه، تاکید کردند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 9691
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🛢نفت خام برنت بیش از ۵ درصد سقوط کرد و معاملات آتی شاخص داوجونز صنعتی افزایش یافت، هرچند سرمایه‌گذاران همچنان نسبت به تأثیر مذاکرات آمریکا و ایران تردید دارند. وال‌استریت ژورنال
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 9690
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸 رویترز: مذاکرات قالیباف و عراقچی در دوحه بر موضوع تنگه هرمز و اورانیوم غنی‌شده متمرکز خواهد بود. @mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 342210
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342210_1779718367.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+An unprecedented hazmat emergency is unfolding in southern California after officials found a crack in a chemical tank.
+
+Fire officials say they've been conducting an all-night mission monitoring the overheated tank to see if the threat of an explosion has passed, as Governor Gavin Newsom declares a state of emergency.
+
+More than 40,000 people are now under evacuation orders, @Max_Gorden reports.
+</div>
+
+## IranIntlTV — post 338931
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_338931_1779718369.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اطلاعات رسیده به ایران‌اینترنشنال جزییات تازه‌ای را از نحوه جاویدنام شدن بابک جعفری در ۱۹ دی‌ماه روایت می‌کند. او که ۳۴ ساله بود، در اصفهان با شلیک گلوله ماموران به کمرش مجروح شد و در درمانگاه جان باخت.
+خانواده جعفری برای جلوگیری از ربوده شدن پیکرش از سوی ماموران حکومت، پیکر او را دو روز در خانه نگه داشتند و سپس به خاک سپردند.
+
+فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال، گزارش می‌دهد
+@iranintltv
+</div>
+
+## IranIntlTV — post 338930
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_338930_1779718370.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک شهروند با ارسال پیام به ایران‌اینترنشنال می‌گوید: «هیچ‌کس به فکر ما نیست. هیچ‌چیز رایگان به دست نمی‌آید؛ حتی نان و آب. آزادی کشور هم رایگان نیست. واقعیت این است که آمریکا به فکر منافع خودش و متحدانش است. ما هم باید به فکر ایران و منافع خودمان باشیم. پایان کار جمهوری اسلامی با ماست.»
+</div>
+
+## IranianMinds — post 20724
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20724_1779718372.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴کاور جدید مجله نیویورک‌پست:
+
+نه گرد‌ و غبار،
+نه دلارها.
+
+@IranianMinds
+</div>
+
+## Dirty_Kids — post 390148
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390148_1779718372.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بررسی یه خط از شعر خوانده حکومتی محسن چاووشی
+
+هروقت عرزشی بهتون گفت بی‌ادب این ویدیو‌رو بکوبید تو صورتش
+
+اینا مداح‌ها و آخونداشون که راهنماشون هستن مثلا، تهه مفسد و بی ادبن
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390147
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_390147_1779718374.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هر وقت مرغ‌ها راهپیمایی گذاشتن در حمایت از کنتاکی فروش‌ها
+جمهوری اسلامی هم به توافق ابراهیم میپیونده
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 122581
+
+<div align="center">
+  <a href="telegram/content/alonews_122581_1779718374.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈عاصم منیر، فرمانده ارتش پاکستان، روز دوشنبه به وانگ یی، وزیر امور خارجه چین گفت که توافقی بین آمریکا و ایران در مورد تنش‌های جاری نزدیک به حصول است.
+
+
+🔴در دیدارشان در پکن، منیر آخرین تحولات را به وانگ گزارش داد.
+
+
+🔴منیر گفت که پاکستان حاضر است به تمام تلاش خود ادامه دهد و امیدوار است که چین نیز به ایفای نقش خود در این روند ادامه دهد.
+
+
+🔴وانگ یی با اشاره به اینکه پاکستان میانجی‌گری واجد شرایط و مورد اعتماد همه طرف‌ها است، گفت که چین از تلاش‌های این کشور قدردانی کرده و از آنها حمایت می‌کند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 122580
+
+<div align="center">
+  <a href="telegram/content/alonews_122580_1779718374.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ارتش دفاعی اسرائیل هشدار تخلیه برای دو ساختمان در منطقه عباسیه صور، جنوب لبنان صادر کرده و ادعا می‌کند که این‌ها «تاسیسات وابسته به حزب‌الله» هستند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/04 17:33
 ---
 
