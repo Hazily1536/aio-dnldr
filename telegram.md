@@ -7,6 +7,175 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/04 18:43
+---
+
+## VahidOOnLine — post 242132
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242132_1779721993.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وب‌سایت سمافور گزارش داد یک سرمایه‌گذاری مشترک میان یک استارتاپ دفاعی آمریکایی و یک شرکت عربستان سعودی در حال ساخت کارخانه‌ای در نزدیکی ریاض برای تولید پهپادهای رزمی مشابه سامانه شاهد جمهوری اسلامی است.
+سمافور افزود این پهپاد با برد ۱۵۰۰ کیلومتر برای تقویت بازدارندگی عربستان سعودی طراحی شده و تولید آن هم برای بازار داخلی و هم صادرات به کشورهای متحد برنامه‌ریزی شده است.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 242131
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242131_1779721993.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️پاپ لئو چهاردهم، رهبر کاتولیک‌های جهان، در نخستین منشور رسمی خود درباره هوش مصنوعی خواستار «خلع سلاح» این فناوری شد و هشدار داد گسترش سریع آن می‌تواند به «گونه‌های تازه برده‌داری» منجر شود.
+
+پاپ که روز دوشنبه منشور «انسانیت باشکوه» را در واتیکان ارائه کرد، نسبت به رقابت جهانی برای توسعه الگوریتم‌های قدرتمندتر و انباشت داده‌های بیشتر با هدف دستیابی به برتری سیاسی و بازرگانی هشدار داد.
+
+او تاکید کرد هوش مصنوعی باید از «منطق سلطه، حذف و مرگ» رها شود و سپردن تصمیم‌های مرگبار به فناوری «غیرقابل پذیرش» است. لئو همچنین استفاده از هوش مصنوعی در جنگ‌افزارهای خودکار را محکوم کرد.
+
+پاپ لئو در بخش دیگری از این سند نسبت به بهره‌کشی انسانی در روند توسعه هوش مصنوعی هشدار داد و گفت پاسخ‌های ظاهرا «بی‌نقص و فوری» این فناوری بر کار خاموش میلیون‌ها نفر، از ناظران محتوای آسیب‌زا تا کودکانی که مواد معدنی مورد نیاز فناوری را استخراج می‌کنند، متکی است.
+
+به گزارش خبرگزاری فرانسه، در آیین رونمایی از این منشور، کریستوفر اولاه، از بنیان‌گذاران شرکت آمریکایی آنتروپیک، نیز حضور داشت.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 12426
+
+
+
+
+## WithYashar — post 12425
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانال ۱۴ اسرائیل: اختلاف نتانیاهو با ترامپ عملیات فریب است
+
+طبق گفته یک تحلیلگر ارشد امنیتی اسرائیل، گزارش‌های درز کرده درباره تماس‌های تلفنی پرتنش میان ترامپ و نتانیاهو بر سر ایران واقعی نبودند، بلکه بخشی از یک راهبرد حساب‌شده برای گمراه‌کردن تهران بودند.
+
+بر اساس گزارش کانال ۱۴ اسرائیل، این جنجال با گزارشی از پایگاه خبری آکسیوس آغاز شد که مدعی بود یک تماس تلفنی به‌ ویژه دشوار میان ترامپ و نتانیاهو درباره یک پیشنهاد جدید آمریکایی که از طریق پاکستان برای ایران ارسال شده، صورت گرفته است.
+
+کوبی مایکل، پژوهشگر ارشد در مؤسسه مطالعات امنیت داخلی (INSS) و مؤسسه میسگاو، توضیح می‌دهد که این یک فریب تاکتیکی درخشان بوده است: «نه رئیس‌جمهور ترامپ و نه نخست‌وزیر نتانیاهو هیچ علاقه‌ای به یک بحران واقعی ندارند. با درز داستان درباره یک بحران جدی ادعایی میان آن‌ها، ایرانی‌ها ممکن است از زمان‌بندی حمله نظامی بعدی کاملاً غافلگیر شوند.»
+@withyashar
+</div>
+
+## mwarmonitor — post 9699
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_9699_1779721994.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ارتش اسرائیل (IDF) اعلام کرده است که حملات خود را به اهداف حزب‌الله در منطقه صور و سایر مناطق جنوب لبنان آغاز کرده است.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 342217
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_342217_1779721996.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+"Nothing says, I want attention more than disparaging a national hero who's also dead."
+
+Taya Kyle is unloading on Maine Senate candidate Graham Platner after he accused her late husband, 'American Sniper' Chris Kyle, of inflating his kill count by shooting innocent civilians.
+
+Kyle called the comments "cowardly" and a "cheap political trick," saying Platner is trying to build notoriety by attacking someone "beloved" who can no longer defend himself.
+
+"For me he would be out of the running immediately," she added.
+</div>
+
+## pm_afshaa — post 91463
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+درود هموطنان عزیزم یک دختر 26 سال داره بجرم کشتن یکنفر که وارد خونش شده که بهش تعرض و تجاوز بکنه صبح 5 خرداد اعدام میشه، باید ۱۰ میلیارد جمع بشه که رضایت بدن تا حالا ۹ میلیارد جمع شده  همه چی داخل تصویر هست کسی خواست استعلام بگیره میدونم ایرانی ها آدم با…
+</div>
+
+## pm_afshaa — post 91462
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+درود مجدد داداش نوکرتم خیلی دمت گرم برای این خانوم ۸۰۰ میلیون جمع شد به لطف شما عزیزان و بقیه و ۲۰۰ میلیون مونده خیلی خوشحال شدم
+</div>
+
+## IranIntlTV — post 338937
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_338937_1779721997.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وب‌سایت سمافور گزارش داد یک سرمایه‌گذاری مشترک میان یک استارتاپ دفاعی آمریکایی و یک شرکت عربستان سعودی در حال ساخت کارخانه‌ای در نزدیکی ریاض برای تولید پهپادهای رزمی مشابه سامانه شاهد جمهوری اسلامی است.
+سمافور افزود این پهپاد با برد ۱۵۰۰ کیلومتر برای تقویت بازدارندگی عربستان سعودی طراحی شده و تولید آن هم برای بازار داخلی و هم صادرات به کشورهای متحد برنامه‌ریزی شده است.
+</div>
+
+## IranIntlTV — post 338936
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک شهروند با ارسال پیامی به ایران‌اینترنشنال درباره مذاکره آمریکا و جمهوری اسلامی می‌گوید: «ترامپ کاری کرد که در خواب هم نمی‌دیدیم. حالا بدهکار ما شده؟ نجات ما وظیفه او نیست. هموطن، به پا خیز. جمهوری اسلامی را ما باید پایین بیاوریم.»
+</div>
+
+## FarsiVOA — post 218620
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_218620_1779721998.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+چیزی که در این مدت آموخته‌ایم این است که هیچ چیز هنوز قطعی نیست و همه چیز در تعلیق است. اما آیا فضای تازه‌ای که در مذاکرات ایران و آمریکا باز شده می‌‌تواند آغازی باشد برای یک پایان؟ کارشناسان میدان پاسخ می‌دهند
+</div>
+
+## Persian_Trend_Official — post 14951
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14951_1779722000.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨 فوری:
+وال استریت ژورنال: مذاکرات ایران رو بحث برنامه هسته‌ای و رفع تحریم‌ها به بن بست رسیده.
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 20731
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20731_1779722000.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 رویترز به نقل از منابع اسرائیلی:
+
+نتانیاهو گفته فعلا نمی‌تواند روی تصمیمات ترامپ درباره ایران تاثیر بگذارد
+
+اسرائیل تا حد زیادی از مذاکرات آمریکا و ایران کنار گذاشته شده
+نتانیاهو نگران توافق احتمالی واشنگتن و تهران است
+
+نتانیاهو می‌خواهد آزادی عمل نظامی برای حمله به ایران داشته باشد!
+
+@IranianMinds
+</div>
+
+## alonews — post 122600
+
+<div align="center">
+  <a href="telegram/content/alonews_122600_1779722001.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 ارتش اسرائیل (IDF): نیروهای دفاعی اسرائیل آغاز به حمله به سایت‌های زیرساختی حزب‌الله در منطقه صور و مناطق اضافی در جنوب لبنان کرده‌اند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/04 18:33
 ---
 
