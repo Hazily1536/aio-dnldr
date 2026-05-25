@@ -7,6 +7,90 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/05 02:02
+---
+
+## VahidOOnLine — post 242193
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242193_1779748368.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️بامداد سه‌شنبه، پنجم خردادماه، علی هاشم، خبرنگار الجزیره، به نقل از منابع خود از وقوع یک درگیری شدید نظامی در جنوب ایران خبر داد و مدعی شد: «یک منبع ایرانی به من گفت صدای تیراندازی سنگینی که در نزدیکی بندرعباس شنیده شد، پس از آن آغاز شد که سپاه پاسداران یک شناور را در دریا هدف قرار داد و در پی آن، جنگنده‌های آمریکایی قایق‌های تندروی نیروی دریایی سپاه را در خلیج [فارس] بمباران کردند. به گفته این منبع، چندین تن از پرسنل نیروی دریایی سپاه پاسداران در این حمله کشته شدند».
+همزمان خبرگزاری مهر با انتشار گزارشی نوشت که «اوضاع در بندرعباس کاملا عادی است و صدای انفجار مربوط به منتهی‌الیه شرق این استان بوده است». براساس گزارش‌های منتشر شده، بامداد سه‌شنبه، صدای چند انفجار علاوه بر هرمزگان، در اسفهان و بابلسر نیز شنیده شد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 12500
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سناتور لیندزی گراهام: چه مسیحی انجیلی باشید و چه نباشید، اسرائیل برای آمریکا یک معامله بزرگ است.
+اگر ارتش اسرائیل، موساد و شین بت فردا ناپدید شوند، ما کنترل منطقه را از دست خواهیم داد.
+پولی که به اسرائیل می‌دهیم، چندین برابر آن را از نظر امنیتی پس می‌گیریم.
+
+اگر اسرائیل می‌خواست همه فلسطینی‌ها را بکشد، می‌توانست. از سوی دیگر، حماس می‌خواهد همه اسرائیلی‌ها را بکشد، اما نمی‌تواند.
+حزب‌الله اگر می‌توانست، همه اسرائیلی‌ها را می‌کشت. و هیچ‌کس در اسرائیل نمی‌خواهد همه مردم لبنان را بکشد
+@withyashar
+</div>
+
+## FoxNewsTwitter — post 342252
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_342252_1779748369.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+“The enriched uranium will either be immediately turned over to the United States... or destroyed in place.”
+
+President Trump says any remaining enriched uranium tied to Iran would be removed or eliminated under U.S. supervision, with atomic energy officials overseeing the process.
+
+The remarks come after Trump said any agreement with Iran would be “good and proper,” while sharply contrasting it with the Obama-era nuclear deal.
+</div>
+
+## IranIntlTV — post 338997
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/338997" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی برنامه با کامبیز حسینی؛ بازگشت «برنامه» با «تریبون آزاد»
+@iranintlTV
+</div>
+
+## Persian_Trend_Official — post 15022
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_15022_1779748369.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شبتون بخیر ❤️
+
+📝 Nick
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 15021
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_15021_1779748370.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴به نظر می‌رسد دو آتش‌سوزی در جزیره خارگ ایران رخ داده است. ⭕️جزیره خارگ بندری برای صادرات تا ۹۰٪ از محصولات نفتی ایران فراهم می‌کند 🫆:Tony 📌 @persian_trend_official پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## BBCPersian — post 282042
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ارتش اسرائیل می‌گوید ساعتی پس از آنکه بنیامین نتانیاهو، نخست‌وزیر اسرائیل اعلام کرد اسرائیل در حال جنگ با حزب‌الله است، موجی از حملات هوایی را در سراسر لبنان آغاز کرده است. از جمله مناطقی که هدف این حملات قرار گرفته است «مواضع حزب‌الله در دره بقاع در شرق…
+</div>
+
+---
 📅 بروزرسانی: 1405/03/05 01:52
 ---
 
