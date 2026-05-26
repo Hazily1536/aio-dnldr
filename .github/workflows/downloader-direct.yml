@@ -128,16 +128,16 @@ jobs:
 
               if [ "$UPLOAD_METHOD" = "release" ]; then
                 # For Drive or Release: keep unsplit if possible, but split if > 1950 MiB
-                (cd "$TMPZIP" && zip "../${OUTPUT_DIR}/${ZIP_NAME}" "$DL_FILE")
+                (cd "$TMPZIP" && zip -0 "../${OUTPUT_DIR}/${ZIP_NAME}" "$DL_FILE")
                 FULLZIP="${OUTPUT_DIR}/${ZIP_NAME}"
                 SIZE=$(stat -c%s "$FULLZIP" 2>/dev/null || echo 0)
                 if [ "$SIZE" -gt 2044723200 ]; then
                   echo "ZIP larger than 1950 MiB, splitting"
                   rm "$FULLZIP"
-                  (cd "$TMPZIP" && zip -s 1950m "../${OUTPUT_DIR}/${ZIP_NAME}" "$DL_FILE")
+                  (cd "$TMPZIP" && zip -0 -s 1950m "../${OUTPUT_DIR}/${ZIP_NAME}" "$DL_FILE")
                 fi
               else
-                (cd "$TMPZIP" && zip -s 99m "../${OUTPUT_DIR}/${ZIP_NAME}" "$DL_FILE")
+                (cd "$TMPZIP" && zip -0 -s 99m "../${OUTPUT_DIR}/${ZIP_NAME}" "$DL_FILE")
               fi
               rm -rf "$TMPZIP"
             fi
@@ -159,16 +159,16 @@ jobs:
             BUNDLE_ZIP="bundle_${RAND_BUNDLE}.zip"
             echo "Creating bundle: $BUNDLE_ZIP"
             if [ "$UPLOAD_METHOD" = "release" ]; then
-              (cd "$BUNDLE_DIR" && zip "../${OUTPUT_DIR}/${BUNDLE_ZIP}" *)
+              (cd "$BUNDLE_DIR" && zip -0 "../${OUTPUT_DIR}/${BUNDLE_ZIP}" *)
               FULLBUNDLE="${OUTPUT_DIR}/${BUNDLE_ZIP}"
               SIZE=$(stat -c%s "$FULLBUNDLE" 2>/dev/null || echo 0)
               if [ "$SIZE" -gt 2044723200 ]; then
                 echo "Bundle ZIP larger than 1950 MiB, splitting"
                 rm "$FULLBUNDLE"
-                (cd "$BUNDLE_DIR" && zip -s 1950m "../${OUTPUT_DIR}/${BUNDLE_ZIP}" *)
+                (cd "$BUNDLE_DIR" && zip -0 -s 1950m "../${OUTPUT_DIR}/${BUNDLE_ZIP}" *)
               fi
             else
-              (cd "$BUNDLE_DIR" && zip -s 99m "../${OUTPUT_DIR}/${BUNDLE_ZIP}" *)
+              (cd "$BUNDLE_DIR" && zip -0 -s 99m "../${OUTPUT_DIR}/${BUNDLE_ZIP}" *)
             fi
             rm -rf "$BUNDLE_DIR"
           else
