@@ -48,6 +48,10 @@ on:
           - release
           - drive
         default: repo
+      bundle_all:
+        description: 'Bundle all downloaded tracks into a single ZIP (true) or create a ZIP for each track (false)'
+        type: boolean
+        default: true
 
 permissions:
   contents: write
@@ -74,12 +78,14 @@ jobs:
 
           echo "::group::Python tools"
           pip3 install --quiet --upgrade pip
+          pip3 install --quiet --upgrade spotdl
           pip3 install --quiet --upgrade SpotiFLAC
           echo "::endgroup::"
 
           echo "::group::Versions"
           ffmpeg -version 2>&1 | head -n1
           python3 --version
+          spotdl --version 2>/dev/null || echo "spotDL version check failed (continuing)"
           spotiflac --version 2>/dev/null || echo "SpotiFLAC version unknown (installed successfully)"
           echo "::endgroup::"
 
@@ -120,49 +126,108 @@ jobs:
             exit 1
           fi
 
-      - name: Download with SpotiFLAC
+      # ────────────── PRIMARY: spotdl ──────────────
+      - name: Download with spotdl (primary)
         if: steps.parse.outputs.HAS_URLS == 'true'
+        id: spotdl_download
         shell: bash
         run: |
           FORMAT="${{ github.event.inputs.output_format }}"
-          QUALITY="${{ github.event.inputs.audio_quality }}"
-          FAILED="failed_urls.txt"
+          BITRATE="${{ github.event.inputs.audio_quality }}"
+          FAILED="failed_urls_spotdl.txt"
           rm -f "$FAILED"
 
-          echo "::group::SpotiFLAC download config"
+          case "$BITRATE" in
+            LOSSLESS|HI_RES_LOSSLESS|DOLBY_ATMOS|HIGH|LOW)
+              BITRATE_ARG="disable"
+              ;;
+            320k|256k|192k|128k)
+              BITRATE_ARG="$BITRATE"
+              ;;
+            *)
+              BITRATE_ARG="128k"
+              ;;
+          esac
+
+          OUTPUT_TEMPLATE="music/{title} - {artists}.{output-ext}"
+
+          echo "::group::spotdl download config"
           echo "Format      : $FORMAT"
-          echo "Quality     : $QUALITY"
-          echo "Folder      : music/"
-          echo "Services    : tidal qobuz deezer amazon (fallback)"
+          echo "Bitrate     : $BITRATE_ARG"
+          echo "Output      : $OUTPUT_TEMPLATE"
           echo "::endgroup::"
 
           while IFS= read -r url; do
             [ -z "$url" ] && continue
-            echo "::group::Downloading: $url"
+            echo "::group::spotdl: $url"
+            if spotdl download "$url" \
+              --format "$FORMAT" \
+              --bitrate "$BITRATE_ARG" \
+              --output "$OUTPUT_TEMPLATE" \
+              --threads 4; then
+              echo "✓ spotdl success"
+            else
+              echo "✗ spotdl failed – queued for SpotiFLAC fallback"
+              echo "$url" >> "$FAILED"
+            fi
+            echo "::endgroup::"
+          done < spotify_urls.txt
+
+          echo "::group::spotdl summary"
+          ls -lhR music/ 2>/dev/null || echo "No files yet"
+          if [ -f "$FAILED" ]; then
+            echo "::warning::Some URLs failed with spotdl (see below)"
+            cat "$FAILED"
+          else
+            echo "All spotdl downloads succeeded."
+          fi
+          echo "::endgroup::"
+
+      # ────────────── FALLBACK: SpotiFLAC ──────────────
+      - name: Download with SpotiFLAC (fallback)
+        if: steps.parse.outputs.HAS_URLS == 'true'
+        shell: bash
+        run: |
+          FALLBACK_FILE="failed_urls_spotdl.txt"
+          if [ ! -f "$FALLBACK_FILE" ] || [ ! -s "$FALLBACK_FILE" ]; then
+            echo "No fallback needed – all URLs succeeded with spotdl."
+            exit 0
+          fi
+
+          QUALITY="${{ github.event.inputs.audio_quality }}"
+          echo "::group::SpotiFLAC fallback"
+          echo "Quality: $QUALITY"
+          echo "URLs to retry:"
+          cat "$FALLBACK_FILE"
+          echo "::endgroup::"
+
+          FINAL_FAILED="failed_urls_spotiflac.txt"
+          rm -f "$FINAL_FAILED"
+
+          while IFS= read -r url; do
+            [ -z "$url" ] && continue
+            echo "::group::SpotiFLAC: $url"
             if spotiflac "$url" music \
               --service tidal qobuz deezer amazon \
               --quality "$QUALITY" \
               --use-album-subfolders \
               --use-artist-subfolders \
               --filename-format "{artist} - {title}"; then
-              echo "✓ Success"
+              echo "✓ SpotiFLAC fallback success"
             else
-              echo "✗ Failed – recording URL"
-              echo "$url" >> "$FAILED"
+              echo "✗ SpotiFLAC also failed"
+              echo "$url" >> "$FINAL_FAILED"
             fi
             echo "::endgroup::"
-          done < spotify_urls.txt
+          done < "$FALLBACK_FILE"
 
-          echo "::group::SpotiFLAC summary"
-          ls -lhR music/ 2>/dev/null || echo "No files"
-          if [ -f "$FAILED" ]; then
-            echo "::warning::Some downloads failed (see below)"
-            cat "$FAILED"
-          else
-            echo "All downloads succeeded."
+          if [ -f "$FINAL_FAILED" ] && [ -s "$FINAL_FAILED" ]; then
+            echo "::warning::Some URLs failed even with SpotiFLAC"
+            cat "$FINAL_FAILED"
+            cp "$FINAL_FAILED" music/failed_downloads.txt
           fi
-          echo "::endgroup::"
 
+      # ────────────── Optional conversion ──────────────
       - name: Convert Audio Format (if needed)
         if: steps.parse.outputs.HAS_URLS == 'true'
         shell: bash
@@ -212,9 +277,12 @@ jobs:
         if: always()
         shell: bash
         run: |
-          if [ -f failed_urls.txt ] && [ -s failed_urls.txt ]; then
-            echo "::warning::Some downloads failed. Adding failed_downloads.txt to the archive."
-            cp failed_urls.txt music/failed_downloads.txt
+          if [ -f failed_urls_spotiflac.txt ] && [ -s failed_urls_spotiflac.txt ]; then
+            echo "::warning::Some downloads failed even after fallback. Adding failed_downloads.txt to the archive."
+            cp failed_urls_spotiflac.txt music/failed_downloads.txt
+          elif [ -f failed_urls_spotdl.txt ] && [ -s failed_urls_spotdl.txt ]; then
+            echo "::warning::Some spotdl downloads failed (SpotiFLAC fallback may not have been triggered). Adding to archive."
+            cp failed_urls_spotdl.txt music/failed_downloads.txt
           else
             echo "No failed downloads – no fail log needed."
           fi
@@ -230,10 +298,12 @@ jobs:
           echo "Total songs downloaded: $SONG_COUNT"
           ls -lhR music/
 
+      # ────────────── ARCHIVE with bundle_all logic ──────────────
       - name: Archive Music Folder
         id: archive
         shell: bash
         run: |
+          BUNDLE_ALL="${{ inputs.bundle_all }}"
           UPLOAD_METHOD="${{ inputs.upload_method }}"
 
           if [ "$UPLOAD_METHOD" = "repo" ]; then
@@ -242,35 +312,75 @@ jobs:
             METHOD="release"
           fi
 
-          RANDOM_STR=$(python3 -c "import random, string; print(''.join(random.choices(string.ascii_lowercase + string.digits, k=5)))")
-          BASE_NAME="music-${RANDOM_STR}"
-          ZIP_NAME="${BASE_NAME}.zip"
-
+          echo "Bundle all: $BUNDLE_ALL"
           echo "Upload method: $METHOD"
 
-          # Clean up any old zip parts
+          # Clean any old archive output
           rm -rf music_archive
           mkdir -p music_archive
 
-          cd music || exit 1
+          if [ "$BUNDLE_ALL" = "true" ]; then
+            # ─── Bundle everything into one ZIP ───
+            RANDOM_STR=$(python3 -c "import random, string; print(''.join(random.choices(string.ascii_lowercase + string.digits, k=5)))")
+            BASE_NAME="music-${RANDOM_STR}"
+            ZIP_NAME="${BASE_NAME}.zip"
 
-          if [ "$METHOD" = "release" ]; then
-            echo "Creating unsplit ZIP (will split only if > 1950 MiB)"
-            zip -r "../music_archive/${ZIP_NAME}" .
-            FULLZIP="../music_archive/${ZIP_NAME}"
-            SIZE=$(stat -c%s "$FULLZIP" 2>/dev/null || echo 0)
-            if [ "$SIZE" -gt 2044723200 ]; then
-              echo "ZIP larger than 1950 MiB, splitting into 1950M parts"
-              rm "$FULLZIP"
-              zip -r -s 1950m "../music_archive/${ZIP_NAME}" .
+            cd music || exit 1
+
+            if [ "$METHOD" = "release" ]; then
+              echo "Creating unsplit ZIP (will split only if > 1950 MiB)"
+              zip -0 -r "../music_archive/${ZIP_NAME}" .
+              FULLZIP="../music_archive/${ZIP_NAME}"
+              SIZE=$(stat -c%s "$FULLZIP" 2>/dev/null || echo 0)
+              if [ "$SIZE" -gt 2044723200 ]; then
+                echo "ZIP larger than 1950 MiB, splitting into 1950M parts"
+                rm "$FULLZIP"
+                zip -0 -r -s 1950m "../music_archive/${ZIP_NAME}" .
+              fi
+            else
+              echo "Creating split ZIP (99 MB parts)"
+              zip -0 -r -s 99m "../music_archive/${ZIP_NAME}" .
             fi
-          else
-            echo "Creating split ZIP (99 MB parts)"
-            zip -r -s 99m "../music_archive/${ZIP_NAME}" .
-          fi
-          cd ..
+            cd ..
 
-          # Move everything back into the music folder for uniform handling
+          else
+            # ─── One ZIP per track ───
+            cd music || exit 1
+            find . -type f ! -name 'failed_downloads.txt' | while IFS= read -r track; do
+              # Remove leading './'
+              track_name="${track#./}"
+              safe_name=$(echo "$track_name" | tr ' ' '_' | tr -cd '[:alnum:]._-')
+              # If the filename is empty after sanitizing, use a random name
+              if [ -z "$safe_name" ]; then
+                safe_name="track_$(tr -dc 'a-z0-9' </dev/urandom | head -c8)"
+              fi
+              RAND5=$(tr -dc 'a-z' </dev/urandom | head -c5)
+              ZIP_NAME="single_${safe_name%.*}_${RAND5}.zip"
+
+              # Create a temp dir to hold only this file
+              TMP_DIR="../music_archive/tmp_single"
+              mkdir -p "$TMP_DIR"
+              cp "$track" "$TMP_DIR/"
+
+              if [ "$METHOD" = "release" ]; then
+                (cd "$TMP_DIR" && zip -0 "../../music_archive/${ZIP_NAME}" ./*)
+                FULLZIP="../../music_archive/${ZIP_NAME}"
+                SIZE=$(stat -c%s "$FULLZIP" 2>/dev/null || echo 0)
+                if [ "$SIZE" -gt 2044723200 ]; then
+                  echo "ZIP larger than 1950 MiB, splitting"
+                  rm "$FULLZIP"
+                  (cd "$TMP_DIR" && zip -0 -s 1950m "../../music_archive/${ZIP_NAME}" ./*)
+                fi
+              else
+                (cd "$TMP_DIR" && zip -0 -s 99m "../../music_archive/${ZIP_NAME}" ./*)
+              fi
+
+              rm -rf "$TMP_DIR"
+            done
+            cd ..
+          fi
+
+          # Move archive contents into the music folder for uniform handling
           rm -rf music/*
           mv music_archive/* music/
           rmdir music_archive 2>/dev/null || true
@@ -280,9 +390,7 @@ jobs:
           echo "Assets list:"
           cat music_assets.txt
 
-      # ────────────────────────────────────────────────────────
-      # GOOGLE DRIVE UPLOAD
-      # ────────────────────────────────────────────────────────
+      # ────────────── UPLOAD TO GOOGLE DRIVE ──────────────
       - name: "Upload to Google Drive"
         if: inputs.upload_method == 'drive'
         env:
@@ -290,7 +398,6 @@ jobs:
           CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
           REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
         run: |
-          # 1. Obtain access token
           ACCESS_TOKEN=$(curl -s -X POST https://oauth2.googleapis.com/token \
             -d client_id="$CLIENT_ID" \
             -d client_secret="$CLIENT_SECRET" \
@@ -301,7 +408,6 @@ jobs:
             exit 1
           fi
 
-          # 2. Find or create 'github-actions' folder
           FOLDER_NAME="github-actions"
           QUERY="mimeType='application/vnd.google-apps.folder' and name='$FOLDER_NAME' and trashed=false"
           FOLDER_ID=$(curl -s -G \
@@ -328,8 +434,6 @@ jobs:
             fname=$(basename "$file")
             size=$(stat -c%s "$file")
             echo "→ Uploading $fname ($size bytes)..."
-
-            # Initiate resumable upload session
             SESSION_URI=$(curl -s -X POST \
               -H "Authorization: Bearer $ACCESS_TOKEN" \
               -H "Content-Type: application/json; charset=UTF-8" \
@@ -341,8 +445,6 @@ jobs:
               echo "❌ Failed to initiate upload session for $fname, skipping"
               continue
             fi
-
-            # Upload the entire file in one chunk
             HTTP_CODE=$(curl -s -o /dev/null -w "%{http_code}" -X PUT \
               -H "Authorization: Bearer $ACCESS_TOKEN" \
               -H "Content-Length: $size" \
@@ -356,9 +458,7 @@ jobs:
             fi
           done
 
-      # ────────────────────────────────────────────────────────
-      # EXISTING UPLOAD METHODS (skipped if Drive is chosen)
-      # ────────────────────────────────────────────────────────
+      # ────────────── REPO UPLOAD (split_push) ──────────────
       - name: Upload to repository (split_push method)
         if: ${{ inputs.upload_method == 'repo' }}
         env:
@@ -389,6 +489,7 @@ jobs:
             fi
           done
 
+      # ────────────── RELEASE UPLOAD ──────────────
       - name: Create Release and upload assets (release method)
         if: ${{ inputs.upload_method == 'release' }}
         env:
@@ -425,4 +526,4 @@ jobs:
         if: always()
         shell: bash
         run: |
-          rm -rf music release_files spotify_urls.txt failed_urls.txt music_assets.txt *.zip 2>/dev/null || true
+          rm -rf music release_files spotify_urls.txt failed_urls_spotdl.txt failed_urls_spotiflac.txt music_assets.txt *.zip 2>/dev/null || true
