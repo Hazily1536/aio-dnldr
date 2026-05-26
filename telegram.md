@@ -7,6 +7,192 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/06 00:12
+---
+
+## WithYashar — post 12609
+
+
+
+
+## mwarmonitor — post 9776
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✈️ساعت ۲۱:۲۳ به وقت گرینویچ پرواز DOOR 72 — یک فروند بمب‌افکن B-52H از پایگاه فیرفورد به پرواز درآمده و در حال ارتباط با بریز نورتن روی فرکانس 231.950 است.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 9775
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✈️ساعت ۲۱:۲۰ به وقت گرینویچ پرواز DOOR 73 — یک فروند بمب‌افکن B-52H از پایگاه فیرفورد به پرواز درآمده و در حال ارتباط با بریز نورتن روی فرکانس 231.950 است.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 9774
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_9774_1779828135.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📌یک حرکت جدید – Coronet East 024
+
+✈️هواپیماهای سوخت رسان KC-46A با نام «BOBBY81» به شماره 19-46061 AE5FA8
+و KC-46A با نام «BOBBY82» به شماره 19-46007 AE574D
+
+✈️با کد مأموریت Coronet East 024 از خاک‌ آمریکا به پرواز درآمده‌اند. مشخص نیست که آیا از قبل هواپیمایی را همراهی می‌کردند یا اینکه این فقط یک پرواز جابه‌جایی و موقعیت‌گیری است، اما بدون شک به‌زودی مشخص خواهد شد.
+
+@mwarmonitor
+</div>
+
+## pm_afshaa — post 91588
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اگه از سرعت سرورا راضین میتونین از lex vpn که سرورارو داره به صورت رایگان بهمون میرسونه حمایت کنین @Lex_Server @Lex_Server
+</div>
+
+## pm_afshaa — post 91587
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اگه از سرعت سرورا راضین میتونین از lex vpn که سرورارو داره به صورت رایگان بهمون میرسونه حمایت کنین @Lex_Server @Lex_Server
+</div>
+
+## pm_afshaa — post 91586
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+vless://f479f518-b927-4516-9723-52b27012aebd@185.143.234.235:2053?path=%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=dl.lexwill.site&fp=chrome&type=ws&allowInsecure=0&sni=dl.lexwill.site#Pmtv متصل سرعت بالا 
+💧 Rainbet.com…
+</div>
+
+## Dirty_Kids — post 390274
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+من عادت ندارم همه چی با هم وصل باشه، هر چه سریعتر برق رو قطع کنید
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 122937
+
+<div align="center">
+  <a href="telegram/content/alonews_122937_1779828136.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈تصویری از محمد عوده، فرمانده شاخه نظامی حماس که ساعاتی قبل در غزه ترور شد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 122936
+
+<div align="center">
+  <a href="telegram/content/alonews_122936_1779828136.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈عوستاد خوش چشم: میتونیم بمب اتم درست کنیم و بجای اینکه بزنیم تو شهرها، بزنیم تو پایگاه‌های آمریکا
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 122935
+
+<div align="center">
+  <a href="telegram/content/alonews_122935_1779828136.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴حالا مردم خودشون آنلاین شدن و دارن می‌بینن این حرام زاده های «سیم‌کارت سفید» تو این سه ماه چه مزخرفات و چرندیاتی رو به اسم مردم ایران جعل کردن و نشر دادن تو رسانه ها.
+
+
+✅@AloNews
+</div>
+
+## alonews — post 122934
+
+<div align="center">
+  <a href="telegram/content/alonews_122934_1779828137.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈از کسایی که تو تجمعات شبانه شرکت کردن دارن میپرسن نظرتون با قطع دائم اینستاگرام چیه؟
+
+
+🔴و اما جواب حامیان حکومت:
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 122933
+
+<div align="center">
+  <a href="telegram/content/alonews_122933_1779828138.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وال‌استریت‌ژورنال: ایران به دنبال توافقی است که بدون واگذاری پیروزی به ترامپ، موجب آرامش اقتصادی شود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 122930
+
+<div align="center">
+  <a href="telegram/content/alonews_122930_1779828139.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 آتش‌سوزی گسترده شهری در فیلیپین را درنوردید و 489 خانواده را تحت تأثیر قرار داد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 122929
+
+<div align="center">
+  <a href="telegram/content/alonews_122929_1779828141.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 قیمت زمین و مسکن در ژاپن همچنان از سقف تاریخی خودش در اوایل دهه ۱۹۹۰ کمتر است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 122928
+
+<div align="center">
+  <img src="telegram/content/alonews_122928_1779828141.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ فروشا:
+
+[@AloTweet]
+</div>
+
+## alonews — post 122926
+
+<div align="center">
+  <a href="telegram/content/alonews_122926_1779828142.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 همچنان در جهان ۲.۱ میلیارد نفر دسترسی به آب شیرین ندراند و مجمع جهانی اقتصاد تخمین می‌زند که نیاز جهانی به سرمایه‌گذاری کل تجمعی تا سال ۲۰۴۰ در زیرساخت‌های آب ۱۱.۴ تریلیون یورو است که ۶.۵ تریلیون یورو بیشتر از سطح سرمایه‌گذاری فعلی است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/06 00:02
 ---
 
@@ -116,8 +302,6 @@ vless://f479f518-b927-4516-9723-52b27012aebd@185.143.234.235:2053?path=%3Fed%3D2
 
 ✅ @AloNews خبر جنگ
 </div>
-
-
 <!-- MSG END -->
 
 <!-- NAV START -->
