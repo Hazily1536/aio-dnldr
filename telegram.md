@@ -7,6 +7,213 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/05 23:33
+---
+
+## VahidOOnLine — post 242350
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242350_1779825832.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️سازمان هواپیمایی کشوری، روز سه‌شنبه، پنجم خردادماه، اعلام کرد که بر اساس مصوبات نشست هماهنگی نهادهای لشکری و کشوری، ساعت کاری ۱۰ فرودگاه ایران با هدف تسهیل عملیات پروازی و ارتقای خدمات هوانوردی افزایش یافته و فعالیت آن‌ها ۲۴ ساعته شده است. بر این اساس، از این پس فرودگاه‌های بین‌المللی «امام خمینی» و مهرآباد تهران و همچنین فرودگاه‌های مشهد، ساری، بیرجند، گرگان، بجنورد، کرمان، زاهدان و سبزوار به‌صورت شبانه‌روزی به مسافران و پروازها خدمات‌رسانی خواهند کرد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 12606
+
+<div align="center">
+  <a href="telegram/content/WithYashar_12606_1779825832.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تری ینگست خبرنگار فاکس‌نیوز از اسرائیل گزارش میکند : رسانه‌های حکومتی ایران ادعا می‌کنند که برای هرگونه توافق با آمریکا، باید ۲۴ میلیارد دلار آزاد شود.
+
+تیم ترامپ می‌گوید چنین چیزی قرار نیست اتفاق بیفتد و “هرگونه کاهش فشار مالی فقط در صورتی انجام می‌شود که ایران به تعهداتش عمل کند.”
+
+ایران باید کاملاً از برنامه هسته‌ای دست بکشد و هیچ‌گونه کنترلی بر تنگه هرمز نداشته باشد، تمام.
+@withyashar
+</div>
+
+## mwarmonitor — post 9773
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴جنگ در ایران نشان داده است که تأسیسات نمک‌زدایی آب (آب‌شیرین‌کن‌ها) در کشورهای عربی حوزه خلیج فارس تا چه اندازه آسیب‌پذیر هستند.
+
+🔸مسئله امنیت آب برای جمعیت کشورهای خلیج فارس در آینده تنها تشدید خواهد شد. مگر اینکه ایالات متحده آماده باشد سلطه بلندمدت ایران بر کشورهای خلیج فارس و همچنین تنگه هرمز را بپذیرد، در غیر این صورت باید بازدارندگی مؤثری در برابر حملات ایران به زیرساخت‌های حیاتی پیدا کند. «اندیشکده هادسن»
+
+@mwarmonitor
+</div>
+
+## pm_afshaa — post 91573
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+vless://6af5890f-5267-40ed-bc60-1bd3ee31a88b@45.38.23.87:8080?encryption=none&security=none&type=ws&path=%2F#PMTV%20NEWS%20%F0%9F%A6%81%E2%98%80%EF%B8%8F
+
+نامحدود سرعت موشکی
+🚀
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91572
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+PMTV NEWS🦁☀️.npvt
+</div>
+
+## DEJradio — post 5001
+
+<div align="center">
+  <img src="telegram/content/DEJradio_5001_1779825834.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👑 
+⭕️ صدور دوباره احکام اعدام برای چهار تن از بچه‌های اکباتان، میلاد آرمون، محمدمهدی حسینی، مهدی ایمانی و نوید نجاران، سند دیگری از ماهیت جنایتکار رژیم جمهوری اسلامی است که برای حفظ قدرت، جوانان ایران را به قتل می‌رساند و از خون مردم برای بقای خود تغذیه می‌کند.
+رژیم ضحاکی جمهوری اسلامی، دادگاه را به ابزار سرکوب تبدیل کرده و اعدام، سلاحی برای ایجاد وحشت در جامعه است.
+سکوت جهان در برابر اعدام معترضان ایرانی، یک شکست اخلاقی و سیاسی است. هر روزی که جامعه جهانی در برابر این رژیم مماشات می‌کند، جمهوری اسلامی با جسارت و قساوت بیشتری جان جوانان ایرانی را می‌گیرد و سرکوب را گسترش می‌دهد.
+تا زمانی که این رژیم اهریمنی پابرجاست، تروریسم، گروگان‌گیری، افراط‌گرایی و کشتار حکومتی در ایران، منطقه و جهان پایان نخواهد یافت.
+این رژیم سرچشمه بی‌ثباتی و خشونت در خاورمیانه است و بهای بقای آن را مردم ایران با جان خود می‌پردازند.
+بچه‌های اکباتان نماد نسلی هستند که جمهوری اسلامی از آن وحشت دارد؛ نسلی که دیگر حاضر نیست زیر سایه ترس و سرکوب زندگی کند.
+
+#بچه_های_اکباتان #شاهزاده_رضا_پهلوی
+@DEJradio
+</div>
+
+## kianmeli1 — post 87685
+
+<div align="center">
+  <a href="telegram/content/kianmeli1_87685_1779825835.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فاکس نیوز
+جمهوری اسلامی درخواست ۲۴ میلیارد دلار برای هر توافقی با آمریکا کرده است.
+https://t.me/kianmeli1
+</div>
+
+## IranIntlTV — post 339157
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_339157_1779825836.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شرکت مخابرات از برقراری کامل اینترنت بین‌الملل برای مشترکان خبر داد. معاون وزیر ارتباطات گفت روند وصل شدن اینترنت در حال انجام است و تا ۲۴ ساعت آینده کامل می‌شود، اما دیوان عدالت اداری اجرای مصوبه اتصال را متوقف کرده است.
+
+گفت‌وگو با سحر تحویلی، پژوهشگر در حوزه فناوری اطلاعات
+@iranintltv
+</div>
+
+## RadioFarda — post 157588
+
+<div align="center">
+  <a href="https://t.me/radiofarda/157588" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+«حملات آمریکا به جنوب ایران و ابهام در مذاکرات پیش رو»
+
+🔸در حالی که میانجی‌گران پاکستانی و قطری در روزهای گذشته، برای پیشبرد توافق موقت و بازگشایی تنگه هرمز تلاش می‌کنند، حملات بامداد سه‌شنبه آمریکا به اهدافی درجنوب ایران و نزدیکی تنگه هرمز،‌ ابهاماتی را بر سر به نتیجه رسیدن این گفتگوها ایجاد کرده است. از سوی دیگر، میزان و نحوه آزادسازی منابع مسدودشده ایران از سوی آمریکا نیز، از دیگر موانع موجود در آغاز مذاکرات دو طرف عنوان شده است. در همین زمینه، ارزیابی امید معماریان، کارشناس مسائل ایران در اندیشکدهٔ داون «DAWN» در واشینگتن را جویا شده ایم.
+
+@RadioFarda
+</div>
+
+## IranianMinds — post 20838
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20838_1779825838.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 نت‌بلاکس :
+در ایران ۸۶ درصد مردم تا الان وصل شدن.
+
+@IranianMinds
+</div>
+
+## Dirty_Kids — post 390272
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‏کانفیگ فروشا تو شوک رفتن چیزی نمیگن؛ قیمت رو آپدیت کن چاقال میخوام با ۵۰ هزار تومن ۱۰۰ گیگ بخرم.
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390271
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کاش سریال succession رو فراموش میکردم تا دوباره ببینمش
+تو هیچ سریالی انقدر حس های متفاوتی رو تجربه نکرده بودم
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390270
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390270_1779825838.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شاید باورتون نشه ولی ملت هنوز هم خوب کسخلن؛
+جلسه پاکسازی روح و روان که خداتومن هزینشه :
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390269
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390269_1779825840.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وای بچه‌ها اینو !
+ما چرا ندیدیم لعنتیا 😂
+
+#عجب_وضع_کسشریه
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 122921
+
+<div align="center">
+  <a href="telegram/content/alonews_122921_1779825842.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈چین توافق پایان جنگ ایران و‌آمریکا برای تأیید به شورای امنیت سازمان ملل ارائه خواهد کرد
+
+
+🔴چین: معتقدیم که پس از دستیابی به توافق، برای تأیید به شورای امنیت سازمان ملل ارائه خواهد شد تا مشروعیت و اقتدار داشته باشد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 122920
+
+<div align="center">
+  <a href="telegram/content/alonews_122920_1779825842.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈شبکه آرتی: وزیر نفت هند می‌گوید پالایشگاه‌های این کشور متحمل زیان‌های روزانه می‌شوند و در صورت ادامه اختلالات مرتبط با جنگ ایران، افزایش بیشتر قیمت‌ها محتمل خواهد بود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/05 23:23
 ---
 
