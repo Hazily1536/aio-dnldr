@@ -7,6 +7,152 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/05 21:53
+---
+
+## VahidOOnLine — post 242326
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آیا وعده بازگشایی اینترنت عملی می‌شود؟
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 9762
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_9762_1779819807.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴«بر اساس بیانیه نخست‌وزیر و وزیر دفاع، اسرائیل محمد عوده، رهبر جدید شاخه نظامی حماس و رئیس پیشین مقر اطلاعاتی این گروه در عملیات ۷ اکتبر، را در نوار غزه ترور کرده است.»
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 342276
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_342276_1779819808.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+JUST IN: The IDF says it dismantled nearly 7 miles of underground Hamas tunnel routes in northern Gaza.
+
+The military released a 3D illustration mapping out the tunnel network, showing the scale of what troops say was uncovered during a major engineering operation.
+
+Hundreds of above-ground terrorist infrastructure sites were also dismantled, according to the IDF.
+</div>
+
+## FoxNewsTwitter — post 342275
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_342275_1779819808.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: VP Vance leads anti-fraud roundtable as crackdown expands https://twitter.com/i/broadcasts/1RJjppbylggKw
+</div>
+
+## IranIntlTV — post 339140
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/339140" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی تیتراول با نیوشا صارمی: آغاز عملیات گسترده زمینی اسراییل در لبنان؛ نشست کمپ‌دیوید درباره ایران
+@iranintlTV
+</div>
+
+## IranIntlTV — post 339139
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_339139_1779819809.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بر اساس گزارش اختصاصی ایران‌اینترنشنال، مهران محقق، فردی که با خودرو به تجمع ایرانیان در تورنتو حمله کرده بود، یک روز پس از حمله با قید وثیقه آزاد شد و جلسه محاکمه او در اواخر ماه آینده میلادی برگزار می‌شود.
+
+گزارش مهسا مرتضوی، خبرنگار ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## ManotoTV — post 105830
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آیا وعده بازگشایی اینترنت عملی می‌شود؟
+</div>
+
+## FarsiVOA — post 218730
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اختلاف در اتحادیه اروپا بر سر چین؛ تردید آلمان مانع سیاست واحد تجاری
+</div>
+
+## RadioFarda — post 157587
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+چگونه جنگ ایران پویایی را به «کواد» بازگرداند
+
+🔸وزیران خارجه «کواد» روز پنجم خرداد برای اولین بار در سال جاری میلادی نشست این گروه را برگزار کردند. در جریان این نشست که در دهلی نو و همزمان با سفر مارکو روبیو، وزیر خارجه آمریکا، به هند برگزار شد، ابتکاراتی در زمینه تامین امنیت دریایی و همچنین دسترسی به مواد معدنی حیاتی مورد بررسی و توافق قرار گرفت.
+
+🔸پس از برگزاری نشست، سوبرامانیام جایشانکار، وزیر خارجه هند در یک نشست خبری اعلام کرد که آن‌ها درباره «تجارت دریایی ایمن و بدون مانع» و همچنین «رعایت دقیق حقوق بین‌الملل» گفت‌وگو کردند.
+
+🔸او مستقیماً به جنگ ایران و بسته شدن تنگهٔ هرمز اشاره نکرد اما گفت: «چهار کشور ما دارای اقتصادهای بازار هستند و به همین دلیل ما قویاً معتقدیم که باید تاب‌آوری اقتصادی تقویت و زنجیره‌های تأمین مستحکم، قابل اعتماد و ایمن شوند».
+
+🔸در حالی که در دومین دورهٔ ریاست‌جمهوری دونالد ترامپ، همکاری‌های چهار کشور آمریکا، استرالیا، ژاپن و هند در چارچوب یک ائتلاف چهارگانه موسوم به «گفت‌وگوی امنیتی چهارجانبه» کمرنگ شده بود، تحولات چند ماه گذشته به ویژه جنگ ایران و بسته شدن تنگهٔ هرمز، اهمیت این ائتلاف را برجسته کرده است.
+
+🔸«گفت‌وگوی امنیتی چهارجانبه» (Quadrilateral Security Dialogue) که اعضا آن را به طور خلاصه «کواد» می‌خوانند، در سال ۲۰۰۷ و به ابتکار شینزو آبه، نخست‌وزیر وقت ژاپن تاسیس شد.
+
+🔸کارشناسان، این گروه را بیشتر یک سازوکار دیپلماتیک در پاسخ به افزایش قدرت اقتصادی و سیاسی چین می‌دانند، اما اکنون که جهان با تهدیدهای متنوع به ویژه در حوزه امنیت دریایی مواجه است، اعضای این گروه در تلاشند که این گفت‌وگوها به اقدام عملی مشخص منجر شود.
+
+🔸هر چهار کشور، دارای دموکراسی، بازار آزاد و دسترسی به اقیانوس‌ها هستند.
+
+🔸گزارش کامل را در وب‌سایت رادیوفردا بخوانید.
+
+@RadioFarda
+</div>
+
+## manototv — post 105830
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آیا وعده بازگشایی اینترنت عملی می‌شود؟
+</div>
+
+## alonews — post 122900
+
+<div align="center">
+  <a href="telegram/content/alonews_122900_1779819811.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 سپاه: طی شبانه روز گذشته ۲۵ فروند کشتی اعم از نفتکش، کانتینربر و سایر کشتی های تجاری پس از کسب مجوز با هماهنگی و تامین امنیت نیروی دریایی سپاه از تنگه هرمز عبور کردند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 122896
+
+<div align="center">
+  <a href="telegram/content/alonews_122896_1779819811.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈اسرائیل حمله‌ای ترور را علیه فرمانده جدید شاخه نظامی حماس، محمد عودا، در محله ریمل شهر غزه انجام داده است.
+
+
+🔴 در حال حاضر مشخص نیست که این حمله موفقیت‌آمیز بوده یا خیر
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/05 21:43
 ---
 
