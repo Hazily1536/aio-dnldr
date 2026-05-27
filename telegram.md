@@ -7,6 +7,240 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/06 14:22
+---
+
+## VahidOOnLine — post 242405
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242405_1779879154.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️همزمان با ادامه مذاکرات میان جمهوری اسلامی و آمریکا، علی‌اکبر ولایتی، مشاور رهبر جمهوری اسلامی در امور بین‌الملل، روز چهارشنبه ششم خرداد گفت که تنگه هرمز «تضمین توافق» با آمریکا است.
+
+ولایتی با انتشار پیامی در اکس نوشت: «خط قرمز ایران روشن است...این بار کاغذها و امضاها تضمین نیستند، ضامن عینی بقای توافق، تنگه هرمز است.»
+مشاور بین‌الملل رهبر جمهوری اسلامی اضافه کرد: «جغرافیا دروغ نمی‌گوید و قاضی نهایی عهدنامه، روی کاغذ نیست.»
+
+او همچنین با اشاره به حملات بیگانگان در به ایران در دوران تاریخی نوشت: «تاریخ گواهی می‌دهد همه مهاجمانی که با سودای سلطه آمدند، از اسکندر تا چنگیز و ترامپ، همگی در هاضمه تمدن غنی ایران هضم شدند.»
+
+پیش از این علی باقری کنی، معاون دبیر شورای عالی امنیت ملی ایران روز چهارشنبه در حاشیه مجمع بین‌المللی امنیتی در مسکو با بیان اینکه تماس‌های غیرمستقیم میان ایران و آمریکا ادامه دارد، گفته بود که «ایران و ایالات متحده هنوز در مورد رفع انسداد تنگه هرمز به توافق نرسیده‌اند.»
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 12663
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+واقعا فک نمیکنی تو شرایط فعلی درست نیست فعلا پزشکتان خراب کنی ؟ این همه ادم دیوث هست تو اینا یکی ک داره جلو سپاه وایمیسه رو چت نزن روش
+</div>
+
+## WithYashar — post 12662
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+واقعا فک نمیکنی تو شرایط فعلی درست نیست فعلا پزشکتان خراب کنی ؟ این همه ادم دیوث هست تو اینا یکی ک داره جلو سپاه وایمیسه رو چت نزن روش
+</div>
+
+## pm_afshaa — post 91642
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+https://t.me/proxy?server=tg.capycore.ru&port=443&secret=27ebe852539fb8ec5f327c73262bb721
+
+پروکسی سرعت بالا متصل
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91641
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اگه میخوای از اخبار جا نمونی ٬ تو کانال مردمی Fighter Radar جوین باش
+
+https://t.me/+9C1ENi5qn6hhZjk0
+https://t.me/+9C1ENi5qn6hhZjk0
+
+
+حتما جوین باشید ثانیه‌ای پوشش میدن
+</div>
+
+## pm_afshaa — post 91640
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+https://t.me/proxy?server=tg.capycore.ru&port=443&secret=27ebe852539fb8ec5f327c73262bb721 پروکسی متصل سرعت بالا 
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom 
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91639
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+https://t.me/proxy?server=tg.capycore.ru&port=443&secret=27ebe852539fb8ec5f327c73262bb721
+
+پروکسی متصل سرعت بالا
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91638
+
+<div align="center">
+  <a href="https://t.me/pm_afshaa/91638" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نپسترنت سرعت بالا برا تمامی اوپراتورها
+
+بفرستین برا بقیه هم وصل شن
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## DEJradio — post 5018
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ نیویورک‌تایمز: حملۀ آمریکا پس از شناسایی تهدیدهای جمهوری اسلامی انجام شد
+
+نیویورک‌تایمز به نقل از دو مقام آمریکایی گزارش داد حملۀ شامگاه دوشنبۀ آمریکا به اهدافی در جنوب ایران، پس از شناسایی مجموعه‌ای از تهدیدها از سوی جمهوری اسلامی انجام شد.
+بنا بر گزارش‌ها نیروهای آمریکایی متوجه فعالیت سامانه‌های پرتاب موشک، پرواز پهپادها و استقرار قایق‌های مین‌گذار در تنگۀ هرمز شده بودند.
+سنتکام پیش‌تر اعلام کرده بود آمریکا قایق‌هایی را که در حال مین‌گذاری بودند و همچنین سامانه‌های پرتاب موشک را هدف قرار داده است.
+با این که جمهوری اسلامی این حملات را «نقض آتش‌بس» خوانده، اما وال‌استریت ژورنال گزارش داد تهران خبر کشته شدن نیروهای سپاه را برای آسیب ندیدن روند مذاکرات با آمریکا، دیر منتشر کرد.
+
+#خبر #دژ #سنتکام #تنگه_هرمز
+@DEJradio
+</div>
+
+## FarsiVOA — post 218790
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺ونس: امیدوارم جمهوری اسلامی تعهد دهد سراغ سلاح هسته‌ای نمی‌رود
+
+▪️جی‌دی ونس، معاون رئیس‌جمهوری آمریکا، در مصاحبه‌ای با ان‌بی‌سی نیوز گفت «بسیار امیدوار» است جمهوری اسلامی با توافقی موافقت کند که شامل تعهد به عدم توسعه سلاح هسته‌ای باشد.
+
+▪️او گفت مسئله دشوارتر این است که آیا تهران حاضر می‌شود با «نوعی سازوکار اجرایی» و «سازوکار نظارتی» موافقت کند؛ سازوکاری که به گفته او، به واشنگتن اطمینان دهد جمهوری اسلامی در آینده توافق را نقض نخواهد کرد.
+
+▪️این اظهارات در حالی مطرح می‌شود که پرونده اورانیوم غنی‌شده به گره اصلی مذاکرات ایران و آمریکا تبدیل شده است.
+
+▪️دولت ترامپ تأکید می‌کند هر توافقی باید فراتر از یک تعهد لفظی باشد و تهران نمی‌تواند سلاح هسته‌ای داشته باشد.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/8154431.html
+</div>
+
+## Persian_Trend_Official — post 15119
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_15119_1779879155.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سالروز اعدام «صدام حسین عبدالمجید التکریتی»
+
+صدام حسین تکریتی، سحرگاه عید قربان سال ۱۳۸۵ به دار مجازات آویخته شد.
+
+
+👩‍💻@PhantomDirective
+
+
+🆔@persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 15118
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_15118_1779879157.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+عبور چهارمین کشتی LNG از تنگه هرمز در کمتر از یک هفته :
+
+
+
+🚢 نفتکش LNG «ام‌الاشتان» متعلق به امارات، با محموله گاز طبیعی مایع از ابوظبی، در حالی که سیستم شناسایی خودکار (AIS) خود را خاموش کرده بود، از تنگه هرمز عبور کرد و به سمت هند در حال حرکت است. این کشتی چهارمین مورد از عبور نفتکش‌های LNG در یک هفته گذشته به شمار می‌رود.
+
+
+👩‍💻@PhantomDirective
+
+
+🆔@persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## alonews — post 123026
+
+<div align="center">
+  <a href="telegram/content/alonews_123026_1779879158.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚫
+🏆 به دنیای هیجان‌انگیز فوتبال خوش اومدی!
+
+
+⭐️اینجا قراره باهم لحظه‌به‌لحظه‌ی جام جهانی رو زندگی کنیم؛
+از بازی‌های حساس و نتایج داغ گرفته تا حاشیه‌ها، کری‌خونی‌ها و اتفاقاتی که همه درباره‌ش حرف میزنن! 
+🔥
+🔥
+
+
+✅ پوشش کامل مسابقات
+
+💀 ترول تیم‌ها و بازیکن‌ها
+
+🎥 ویدیوها و لحظه‌های فان فوتبالی
+
+📊 آمار، ترکیب‌ها و اخبار فوری
+
+🌍 حواشی جذاب از سراسر جام جهانی
+
+
+📢اینجا فقط یک کانال خبری نیست؛
+یک جمع فوتبالیه برای کسایی که فوتبال رو با هیجان، شوخی و احساس واقعی دنبال میکنن 
+📛
+💟
+
+
+🆘
+🔞 آماده باش چون قراره جام جهانی رو متفاوت تجربه کنیم!
+
+
+⚡ @Vaarzesh_Plus
+
+⚡ @Vaarzesh_Plus
+</div>
+
+## alonews — post 123025
+
+<div align="center">
+  <a href="telegram/content/alonews_123025_1779879158.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈آتش سوزی پشت بام مجتمع تجاری در شوش تهران
+
+
+🔴سخنگوی سازمان آتش نشانی و خدمات ایمنی شهرداری تهران از آتش سوزی بر روی پشت بام یک مجتمع تجاری در خیابان شوش خبر داد.
+
+
+🔴با تلاش به موقع آتش نشانان این حادثه بدون سرایت به انبارها مهار شد و افراد نیز در همان لحظات اولیه از ساختمان تخلیه شدند و این حادثه بدون مصدومیت به پایان رسید
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/06 14:12
 ---
 
