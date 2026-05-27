@@ -7,6 +7,177 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/06 12:32
+---
+
+## VahidOOnLine — post 242395
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242395_1779872553.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️علی باقری کنی، معاون دبیر شورای عالی امنیت ملی جمهوری اسلامی روز چهارشنبه ششک خرداد در حاشیه مجمع بین‌المللی امنیتی در مسکو با اشاره به مذاکرات نمایندگان تهران و واشنگتن گفت: «ذخایر اورانیوم غنی‌شده ایران در دستور کار مذاکرات نیست».
+
+به گزارش ریانووستی، باقری کنی همچنین با بیان اینکه تماس‌های غیرمستقیم میان تهران و واشنگتن ادامه دارد، افزود: ایران و ایالات متحده هنوز در مورد رفع انسداد تنگه هرمز به توافق نرسیده‌اند.
+
+این اظهارات در حالی مطرح می‌‌شود که دونالد ترامپ، رئیس‌جمهوری ایالات متحده، روز دوشنبه با انتشار پیامی در شبکه اجتماعی تروث نوشت: «اورانیوم غنی‌شده (گرد‌وغبار هسته‌ای) یا باید فورا به ایالات متحده تحویل داده شود تا به آمریکا منتقل و نابود گردد، یا اینکه ترجیحا در بستر همکاری و هماهنگی با جمهوری اسلامی، در همان محل یا در مکان قابل‌قبول دیگری، در حضور و با نظارت کمیسیون انرژی اتمی یا نهاد معادل آن نابود شود.»
+
+ مقام‌های آمریکایی به سی‌ان‌ان گفته‌اند، اختلاف‌ها بر سر نحوه پرداختن به برنامه هسته‌ای ایران و لغو تحریم‌ها، نهایی شدن توافق برای پایان جنگ را به تاخیر انداخته است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 242394
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242394_1779872553.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت خارجه کره جنوبی چهارشبنه شش خرداد اعلام کرد که حمله به کشتی باری اچ‌ام‌ام نامو در تنگه هرمز ، احتمالا با استفاده از یک موشک ایرانی انجام شده است.
+
+به گزارش رویترز، یک مقام دفتر ریاست‌جمهوری کره جنوبی ۲۱ اردیبهشت اعلام کرد سئول در حال بررسی نقش احتمالی جمهوری اسلامی در حمله به نفتکش کره‌ای «اچ‌ام‌ام نامو» در هفته گذشته است.
+
+او با تاکید بر این که کره جنوبی قصد دارد به عامل حمله به این کشتی پاسخ دهد در عین حال گفت عامل این حمله تاکنون شناسایی نشده و تحقیقات در این زمینه ادامه دارد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 12646
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شبکه ۱۲ اسرائیل : تو نهاد امنیتی، هلاکت محمد عودة تأیید شد @withyashar
+</div>
+
+## mwarmonitor — post 9794
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ایالات متحده در حال کاهش نیروهایی است که در صورت بروز بحران قصد دارد به اروپا اعزام کند؛ اقدامی تازه از سوی دولت ترامپ برای کوچک‌تر کردن حمایت نظامی خود از متحدان ناتو. وال‌استریت ژورنال
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 9793
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_9793_1779872554.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✈️پرواز هم‌زمان دو فروند Boeing P-8A Poseidon آمریکایی در دریای عرب , پایش دریایی سنگین آمریکا در نزدیکی خلیج عدن و دریای عمان
+
+@mwarmonitor
+</div>
+
+## pm_afshaa — post 91622
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp&headerType=none#PMTV%20NEWS%20%F0%9F%A6%81%E2%98%80%EF%B8%8F
+
+نامحدود متصل سرعت بالا
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91621
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کسی که تا 12:45 بیشترین استارز رو روی این پست بزنه 10 گیگ اختصاصی برنده میشه
+😉
+
+
+✉️ @Glitch_Config
+</div>
+
+## pm_afshaa — post 91620
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@63.141.128.5:2083?encryption=none&security=tls&sni=mzaxmc.lizardshop.org&fp=chrome&type=ws&path=%2F%3Fed#PMTV%20NEWS%20%F0%9F%A6%81%E2%98%80%EF%B8%8F
+
+سرور فوق العاده پرسرعت و قوی مخصوص اینستا و یوتیوب سرعت بالا
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91619
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?encryption=none&security=tls&sni=pagescm.freen20.cc.cd&type=ws&host=pagescm.freen20.cc.cd&path=%2Fitem#PMTV%20NEWS%20%F0%9F%A6%81%E2%98%80%EF%B8%8F
+
+v2 سرعت بالا
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## DEJradio — post 5014
+
+<div align="center">
+  <a href="telegram/content/DEJradio_5014_1779872554.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺📢 انفجار هزینه‌ها در بازارهای قفل شده ایران؛
+
+*عطا حسینیان، روزنامه‌نگار اقتصادی
+
+#تورم #جنگ
+@DEJradio
+</div>
+
+## IranIntlTV — post 339208
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_339208_1779872555.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت خارجه کره جنوبی چهارشبنه شش خرداد اعلام کرد که حمله به کشتی باری اچ‌ام‌ام نامو در تنگه هرمز ، احتمالا با استفاده از یک موشک ایرانی انجام شده است.
+
+به گزارش رویترز، یک مقام دفتر ریاست‌جمهوری کره جنوبی ۲۱ اردیبهشت اعلام کرد سئول در حال بررسی نقش احتمالی جمهوری اسلامی در حمله به نفتکش کره‌ای «اچ‌ام‌ام نامو» در هفته گذشته است.
+
+او با تاکید بر این که کره جنوبی قصد دارد به عامل حمله به این کشتی پاسخ دهد در عین حال گفت عامل این حمله تاکنون شناسایی نشده و تحقیقات در این زمینه ادامه دارد.
+https://iranintl.com/202605274355
+</div>
+
+## IranIntlTV — post 339207
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_339207_1779872555.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هیلل نیومن، سفیر اسرائیل در استرالیا، در گفت‌وگوی اختصاصی با علیرضا محبی، خبرنگار ایران‌اینترنشنال، هشدار داد اگر مذاکرات آمریکا با جمهوری اسلامی به نتیجه نرسد، اسرائیل ممکن است دوباره به کارزار نظامی بازگردد. او همچنین گفت دولت اسرائیل بر سر توقف کامل غنی‌سازی اورانیوم، برنامه موشک‌های بالستیک و حمایت حکومت ایران از نیروهای نیابتی مصالحه نخواهد کرد.
+@iranintltv
+</div>
+
+## alonews — post 123009
+
+<div align="center">
+  <a href="telegram/content/alonews_123009_1779872557.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزیر ارتباطات: اهتمام رئیس‌جمهور به بازگشایی اینترنت و احیای ثبات ارتباطی، نشانه‌ای روشن از عقلانیت و ایستادن در کنار مردم است
+
+
+🔴ملت ایران شایسته ارتباط آزاد، آینده‌ای روشن و اقتصادی پویاست
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/06 12:23
 ---
 
