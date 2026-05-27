@@ -7,6 +7,241 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/07 02:03
+---
+
+## WithYashar — post 12749
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+https://t.me/boost/withyashar
+</div>
+
+## WithYashar — post 12748
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+چیزی ‌نیست بی بی اومده یه قلیه ماهی ‌بزنه بره 🐟 شلوغش نکنید
+</div>
+
+## VahidOnline — post 75760
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+#بندرعباس
+پیام‌های دریافتی:
+
+چهار تا صدای انفجار پشت سر هم اومد الان
+ساعت ۱:۳۳ بندرعباس
+
+درود آقا وحید همین الان سه تا صدای انفجار اومد تو بندرعباس ساعت ۱:۳۳ دقیقه
+
+حاجی صدای انفجار دوباره شرق بندرعباس همین حالا سه تا پشت سر هم ساعت1/43 دقیقه
+
+سلام وحید
+۰۱:۳۳ شب
+همین الان بندرعباس صدای ۳ تا انفجار اومد
+سمت بهشت بندر
+احتمالا باز مثل سری قبل باند فرودگاهه
+
+
+بندرعباس ساعت ۱:۳۰ هفتم خرداد صدای جنگنده بعدش سه تا صدا انفجار اومد
+
+سه تا انفجار بندرعباس
+
+ساعت 1 و 33 دقیقه بامداد پنجشنبه 7 خرداد صدای سه تا انفجار رو از بندر عباس کس دیگه ای هم گزارش کرده ؟
+شبیه صدای موشک زمین به هوا بود
+
+بندرعباس صدا اومد
+سه بار
+درود. ساعت ۱:۳۲ دقیقه صدای سه انفجار شدید در بندرعباس اومد و خونه شدید لرزید.
+ساعت ۱:۴۷ باز هم صدای دو انفجار دیگه اومد
+
+صدای سه انفجار بندرعباس همین الان
+
+سلام وحید جان بندرعباس چند انفجار وحشتناک پنجره خونه لرزید 1.38
+دباره زدن بندرعباس ساعت 1.49
+
+۳تا صدای انفجار بعد صدای پدافند
+
+سه انفجار پشت سر هم و یکی هم ده دقیقه بعدش بندرعباس رخ داده
+📡 @VahidOnline
+</div>
+
+## IranIntlTV — post 339312
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_339312_1779921191.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+قطع اینترنت برای دانشجویان ایرانی‌تبار در کانادا فقط به معنای بی‌خبری از خانواده‌هایشان نبوده است.
+
+اختلال در انتقال پول، فشار اقتصادی بر خانواده‌ها و سقوط ارزش ریال، بسیاری از این دانشجویان را با مشکلات مالی و روانی روبه‌رو کرده است.
+
+گزارش مهسا مرتضوی، خبرنگار ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## FarsiVOA — post 218847
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_218847_1779921192.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️کانال تلگرامی وحیدآنلاین دقایقی قبل به نقل از کاربران از شنیده شدن صدای چندین انفجار در بندرعباس خبر داد.
+@FarsiVOA
+</div>
+
+## IranianMinds — post 20906
+
+<div align="center">
+  <a href="https://t.me/IranianMinds/20906" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرور فوق العاده پرسرعت و قوی مخصوص اینستا و یوتیوب سرعت فضایی مخصوص تمام اینترنت ها
+
+آموزش اتصال در اندروید
+
+آموزش اتصال در آیفون
+
+حتما شیر بدید بقیه هم متصل شن لطفا دانلود سنگین هم نزنید ❤️‍🔥
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 282219
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻پم باندی، دادستان کل پيشين آمريکا که ماه گذشته توسط دونالد ترامپ از سمت خود برکنار شد، اعلام کرد به سرطان تيروئيد مبتلا شده است.
+
+باندی ۶۰ ساله به سی‌بی‌اس گفت که تحت درمان قرار دارد و چند هفته پيش نيز تحت عمل جراحی قرار گرفته است.
+
+هنوز مشخص نيست سرطان پم باندی از کدام انواع سرطان تیروئید است اما پزشکان دست کم دو نوع رایج سرطان تیروئید را که روند آهسته‌ای دارد، بسیار درمان‌پذیر می‌دانند.
+
+او در یک سال و اندی حضور در دولت، از حامیان سرسخت دونالد ترامپ بود و خود را دنبال‌کننده جدی سیاست‌های رئیس جمهور آمریکا معرفی می‌کرد هرچند حواشی مرتبط با پرونده اپستین و همچنین به گزارش رسانه‌های آمریکا، انتظار از او برای پیگیری شکایاتی چون پرونده جیمز کومی و دیگر منتقدان جدی آقای ترامپ، زمینه‌ساز جدایی‌اش شد.
+
+https://bbc.in/3PpIMz2
+@BBCPersian
+</div>
+
+## Dirty_Kids — post 390367
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390367_1779921193.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+☢️خفن ترین و‌ قدیمی ترین  انالیزور  ایران ینی دکتر بت 
+👍 
+🔴مسابقات جذاب جام جهانی به زودی شروع میشه بیا توی کانال دکتر بت و باهاش همراه شو و پول در بیار
+💵 رایگان بهترین شرط هارو براتون میذاره حتی هزار تومن هم دریافت نمیکنه روزانه میتونی از پیش بینی فوتبال باهاش…
+</div>
+
+## Dirty_Kids — post 390366
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390366_1779921194.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+☢️خفن ترین و‌ قدیمی ترین  انالیزور  ایران ینی دکتر بت 
+👍
+
+
+🔴مسابقات جذاب جام جهانی به زودی شروع میشه بیا توی کانال دکتر بت و باهاش همراه شو و پول در بیار
+💵
+
+رایگان بهترین شرط هارو براتون میذاره
+حتی هزار تومن هم دریافت نمیکنه
+روزانه میتونی از پیش بینی فوتبال باهاش پول در بیاری 👌
+A6
+
+🌟اگ اهل پیش بینی فوتبالی این کانال اصلا از دست ندین
+👇
+
+✅https://t.me/+4_ADqwB9e-QwYjlk
+
+✅https://t.me/+4_ADqwB9e-QwYjlk
+</div>
+
+## Dirty_Kids — post 390365
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_390365_1779921194.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+#بخوابیم
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390364
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_390364_1779921194.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بچه‌ها شما که نبودید.
+گفتم حیفه نذارم، شاید این صحنه ها را ندیده باشید.
+در هفته های آخر حمله آمریکا، نیروهای یگان ویژه و سپاه توی تهران کارتن‌خوابی میکردن.
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390363
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_390363_1779921195.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آخرین تصویری که خامنه ای دیده 😂
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390362
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390362_1779921195.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فقط در برزیل چنین چیزی ممکن است!
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390361
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_390361_1779921197.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بچه‌ها شما که نبودین قرار بود پیام لاریجانی تا دقایقی دیگر منتشر بشه.
+شما هستین و پیامش هنوز منتشر نشده
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390360
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_390360_1779921197.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+این سریال YourFriendes & Neighbors رو ببینید، ازش لذت ببرید و بعدا ازم تشکر کنید.
+
+ژانر کمدی/درام هست
+این داداشمون پولدار بوده، تو بالاشهر امریکا میشینه ورشکسته میشه، رو میاره به لاشی‌بازی و دزدی
+
+
+@Dirty_Kids 👻
+</div>
+
+---
 📅 بروزرسانی: 1405/03/07 01:53
 ---
 
