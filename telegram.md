@@ -7,6 +7,193 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/06 13:22
+---
+
+## WithYashar — post 12657
+
+<div align="center">
+  <a href="telegram/content/WithYashar_12657_1779875575.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+الان نزدیک مجتمع صنایع فولاد مبارکه
+@withyashar
+</div>
+
+## WithYashar — post 12656
+
+
+
+
+## WithYashar — post 12655
+
+<div align="center">
+  <a href="telegram/content/WithYashar_12655_1779875577.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+@withyashar مخصوص‌ پیرمدا
+</div>
+
+## WithYashar — post 12654
+
+
+
+
+## pm_afshaa — post 91632
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴معاون وزیر امور خارجه روسیه:ما آمادگی خود را برای انتقال اورانیوم غنی‌شده از ایران به واشنگتن اطلاع داده‌ایم و این پیشنهاد همچنان روی میز است
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91631
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+tg://proxy?server=r10.proxytg.space&port=8443&secret=ee65032756d1cfb78ebbd0ea8db83d43937231302e70726f787974672e7370616365
+
+پروکسی متصل سرعت بالا
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## iaghapour — post 2636
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻بچه ها میگن انقدر پهنای باند دیتاسنتر ها پایین هستش که اکثر روش های تانل که اجرا میکنن سرعت بدی داره یا دچار قطع و وصلی و اختلال زیاد هستش.
+
+خیلی به روش تانل بستگی نداره بیشتر مشکل پهنای باند ضعیف دیتاسنتر ها مربوط هست.
+
+امیدوارم در روزهای آینده وضعیت بهتر بشه.
+</div>
+
+## IranianMinds — post 20863
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 وزیر ارتباطات: اهتمام رئیس‌جمهور به بازگشایی اینترنت و احیای ثبات ارتباطی، نشانه‌ای روشن از عقلانیت و ایستادن در کنار مردم است
+
+ملت ایران شایسته ارتباط آزاد، آینده‌ای روشن و اقتصادی پویاست
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20862
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 علم‌الهدی: نبود گوشت تو یخچال مردم مشکل بزرگی نیست چون وضعیت کشور جنگیه و اگر گوشت هم نداشته باشن که بخورن اشکالی نداره.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20861
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خوبه خودشونم اعتراف میکنن زیر زمین بودن این مدت.
+
+🔴صداسیما:
+هر مسئولی که تو جنگ زیرزمین بود رو نتونستن ترور کنن، جاشونو پیدا میکنن ولی نمیتونن بزننش، حتی با ۲۸ سنگر شکن.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20860
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+❌دیگه فریب بونوس سایت های متفرقه رو نخورید!
+
+💖توی این سایت که مورد #تایید ماست، با عضویت 500 هزارتومان بگیر!
+
+🌐 Winro.io
+
+🌐 Winro.io
+</div>
+
+## IranianMinds — post 20859
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20859_1779875579.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ تنها جایی که در لحظه عضویت بهت 500 هزارتومان موجودی میده اینجاس 
+❌
+
+
+🎉 کافیه فقط عضو بشی تا #وینرو بهت 
+🤩 
+🤩 
+🤩 هزارتومان جایزه بده ، نیازی هم به واریز نیست.
+
+
+⌛ پشتیبانی 24 ساعته
+
+🍆تنها سایت مورد اعتماد ما با بونوس های کاملا واقعی و رویایی:
+
+🌐 Winro.io
+
+🌐 Winro.io
+کانال بونوس های رایگان r6
+
+📱 @winro_io
+</div>
+
+## BBCPersian — post 282180
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻نماینده مجتبی خامنه‌ای با سفر به چابهار، پیام او به مردم سیستان و بلوچستان را به آنها رساند
+
+🔻بنا به گزارش رسانه‌های داخلی ایران مجتبی خامنه‌ای، رهبر جمهوری اسلامی در پیام ویژه‌ای به سیستان و بلوچستان «بر وحدت میان شیعه و سنی» تاکید کرده است.
+
+این پیام مجتبی خامنه‌ای را محمدتقی وکیل‌پور در دیدار با روحانیان چابهار ابلاغ کرده است.
+
+او ضمن تبریک عید قربان، به نقل از آقای خامنه‌ای به این روحانیان گفته است: «وحدت میان مردم شیعه و سنی و حضور آگاهانه آنان در میدان، ریشه دشمنی‌ها را خشک خواهد کرد.»
+
+آقای وکیل پور گفته است برای قدردانی از مردم سیستان و بلوچستان به این استان سفر کرده و اضافه کرده است: «مردم این دیار در دوران دفاع مقدس خدمات ارزنده‌ای به کشور ارائه دادند و امروز نیز با اقدامات پرخیر و برکت خود، موجب خرسندی رهبر معظم انقلاب شده‌اند.»
+
+مجتبی خامنه‌ای از زمان آغاز به کارش در اسفند تاکنون در انظار عمومی ظاهر نشده است. روز گذشته (سه‌شنبه) نیز یک پیام کتبی به مناسبت برگزاری مراسم حج از او منتشر شد.
+
+https://bbc.in/4dSgnK3
+@BBCPersian
+</div>
+
+## alonews — post 123017
+
+<div align="center">
+  <a href="telegram/content/alonews_123017_1779875580.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈امتحانات پایه‌های هفتم تا دهم به صورت غیرحضوری و از طریق سامانه جدید شاد برگزار می‌شود.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123016
+
+<div align="center">
+  <a href="telegram/content/alonews_123016_1779875580.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رئیس‌جمهور ترکیه اردوغان: ان‌شاءالله این دیکتاتور به نام نتانیاهو، درسی که شایسته‌اش است را از مسلمانان جهان خواهد گرفت
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/06 13:12
 ---
 
