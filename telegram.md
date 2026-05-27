@@ -7,6 +7,96 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/06 19:12
+---
+
+## DEJradio — post 5039
+
+<div align="center">
+  <a href="telegram/content/DEJradio_5039_1779896579.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺🎥 رسانه‌های داخلی از وقوع آتش‌سوزی در یکی از برج‌های شهرک چیتگر تهران خبر دادند علت حادثه، میزان تلفات و خسارت مشخص نیست.
+
+#آتشسوزی #چیتگر
+@DEJradio
+</div>
+
+## DW_Farsi — post 125205
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 پیروزی نامزد مورد حمایت ترامپ در تگزاس به‌ رغم رسوایی‌ها
+
+کن پاکستون، دادستان کل تگزاس با حمایت قاطع دونالد ترامپ، رئیس‌جمهور آمریکا توانست در انتخابات درون‌حزبی جمهوری‌خواهان در تگزاس که یکی از پایگاه‌های اصلی و سنتی حزب جمهوری‌خواه است جیمز کورنین، سناتور باسابقه را شکست دهد.
+
+پاکستون به دلیل گرایش‌های راست‌گرایانه و وفاداری شدید به ترامپ پیروز شد و اکنون در انتخابات مهم نوامبر ۲۰۲۶ نامزد جمهوری‌خواهان خواهد بود.
+@dw_farsi
+</div>
+
+## BBCPersian — post 282201
+
+<div align="center">
+  <a href="https://t.me/bbcpersian/282201" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تازه‌ترین خبرهای جهان چهارشنبه ۶ خرداد ۱۴۰۵ از رادیو بی‌بی‌سی در لندن
+
+@BBCPersian
+</div>
+
+## BBCPersian — post 282200
+
+<div align="center">
+  <a href="https://t.me/bbcpersian/282200" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻دنیس راس، مدیر پیشین اداره سیاست‌گذاری وزارت خارجه آمریکا، در گفت‌وگو با برنامه ۶۰ دقیقه بی‌بی‌سی درباره چالش‌های به نتیجه رسیدن مذاکرات ایران و آمریکا گفت.
+
+او تاکید کرد که هیچ راهبردی در قبال ایران تاکنون جواب نداده است؛ چه راهبرد آنها که به ایران امتیاز دادند و چه آنها که سیاست فشار حداکثری را پی گرفتند.
+
+این مصاحبه را که در برنامه شصت دقیقه پنجم خرداد پخش شده، گوش دهید.
+
+@BBCPersian
+</div>
+
+## alonews — post 123086
+
+<div align="center">
+  <a href="telegram/content/alonews_123086_1779896581.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈به ساکنان‌های صور تو لبنان زنگ میزنن و میگن اونجارو تخلیه کنید
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123085
+
+<div align="center">
+  <a href="telegram/content/alonews_123085_1779896583.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 آتش زدن ماکت جواد ظریف در میدان اتحاد گرگان!
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123084
+
+<div align="center">
+  <a href="telegram/content/alonews_123084_1779896584.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ابوالفضل ابوترابی، نماینده مجلس: مردم عزیز(اون ۴درصد) اخباری که در خصوص مذاکرات به گوش ما می‌رسد، خسرانی است که از برجام هم بدتر است!
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/06 19:03
 ---
 
