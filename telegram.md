@@ -7,6 +7,232 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/06 21:33
+---
+
+## VahidOOnLine — post 242467
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242467_1779905010.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+عبدالله حاجی‌صادقی، نماینده خامنه‌ای در سپاه: در طول جنگ می‌توانستیم اقدامات سنگین‌تری علیه آمریکا در منطقه انجام دهیم اما چون مردم خاورمیانه آسیب می‌دیدند، خامنه‌ای موافقت نکرد.
+
+او افزود نقشه دشمن این است که ما را مقابل هم بگذارد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 12722
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سلام یاشار جان خسته نباشی، ممنونم بابت زحمات
+میگم یه سوال تو خبر دارین که میگن جلسه کابینه کمپ دیوید یه تله بوده که کی اطلاعات رو لو می‌داده و فهمیدن که جی دی ونس بوده؟!
+</div>
+
+## FoxNewsTwitter — post 342320
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_342320_1779905011.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+Rescuers break down in tears and embrace after saving five people trapped deep inside a flooded cave.
+
+A Thai rescue team pushed through murky underwater passageways and narrow tunnels trying to reach the group trapped in Laos’ Xaisomboun Province before time ran out.
+
+Families waiting above ground feared they may never see their loved ones again as rescuers battled dangerous conditions.
+
+Then came the moment nobody thought they’d witness: survivors emerging alive as emotional reunions unfolded above ground.
+</div>
+
+## DEJradio — post 5041
+
+<div align="center">
+  <img src="telegram/content/DEJradio_5041_1779905011.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👑
+👑 شهین خاکپور، یکی از تازه‌ترین قربانیان جنایات رژیم، از ایرانیان آزادی‌خواه و مبارزان میدانی در ایران بود که به دست جمهوری اسلامی زندانی و به ۱۸ سال حبس محکوم شد.
+خانم خاکپور که در زندان به ذات‌الریه مبتلا شد، در دوره مرخصی درمانی به ترکیه رفت، اما با تشدید بیماری، جان خود را از دست داد.
+زنده‌یاد شهین خاکپور، یادش گرامی خواهد بود و نامش فراموش نخواهد شد.
+
+#جاویدنامان #شهین_خاکپور
+@DEJradio
+</div>
+
+## IranIntlTV — post 339284
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/339284" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی تیتراول با نیوشا صارمی: ترامپ: شاید محبور شویم به ایران برگردیم و کار را تمام کنیم
+@iranintlTV
+</div>
+
+## Iliaen — post 4436
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بزرگ‌ترین تفاوت میان امروز و ۹۰ روز قبل، این است که شناخت ما به سیاست، جامعه، دوستان و حتی خودمان دگرگون شد.
+
+جامعه‌ای که امروز می‌داند در اوج روزهای تاریکی با چه بحران‌هایی طرف خواهد شد، چه راهکارهای واقع‌بینانه‌‌ای برای مدیریت آن خواهد داشت و مهم‌تر از همه، سطح توقع خود را نسبت به همه چیز بهتر می‌شناسد، یک جامعه تکامل‌یافته است.
+
+چنین جامعه‌ای بیشتر درد می‌کشد، آسیب زیادی را متحمل شده، اما دیگر از هیچ چیز غافلگیر نخواهد شد و درنهایت با عبور از مرحله واکنش‌گرایی، وارد مرحله کُنش‌گرایی می‌شود که این، بخش پایانی از هر انقلاب‌ است.
+
+بخشی که دست‌کم یک‌بار به تمام ملت‌ها در تاریخ نشان داد، واکنش‌گرایی یعنی غافلگیری و بلاتکلیفی، اما ‌آزادی، یک فرایند از دل کنش‌گرایی است.
+
+باید بدانیم که یک انقلاب پیش از نمود در جامعه به عنوان یک “انقلاب سیاسی”، ابتدا در ذهن و نگرش آن جامعه، تحت عنوان یک “انقلاب فرهنگی و شناختی” رقم می‌خورد و ما در حال گذر از این مرحله پایانی هستیم.
+
+امروز و در اینجا، باید بیش از هر زمان نسبت به آینده امیدوار بود، زیرا تاریخ این را به ما نشان می‌دهد؛ همانطور که پیش‌تر سرنوشت خامنه‌ای را نشان داده بود!
+
+@iliaen
+</div>
+
+## FarsiVOA — post 218825
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رئیس سازمان اطلاعات و امنیت سایبری بریتانیا می‌گوید روسیه مستقیماً زیرساخت‌ها، انتخابات و سیستم‌های حیاتی این کشور را هدف گرفته و خطر حملات سایبری به سطحی «بی‌سابقه» رسیده. هم‌زمان بریتانیا و لهستان در حال امضای یک پیمان دفاعی جدید برای مقابله با تهدیدهای روسیه و تقویت امنیت اروپا هستند
+</div>
+
+## Dirty_Kids — post 390346
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‏هم جنگ شد هم مذاکره کردن هم تو بگا رفتی هم ما کیر خوردیم :)))
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390345
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کاش همینجوری که اینترنتا برگشت جوونامونم از زیر خاک برمیگشتن.
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390344
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_390344_1779905012.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پس کیر شدن این شکلیه ؟
+
+
+@Dirty_Kids 👻
+</div>
+
+## Hranews — post 113201
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مرگ و مصدومیت ۳ کارگر در سایه فقدان ایمنی کار/ مسمومیت غذایی ۸ کارگر یک واحد صنعتی
+
+
+❗️
+❗️
+❗️
+❗️
+❗️– در سایه فقدان ایمنی محیط و شرایط نامناسب کار، وقوع یک حادثه در شرکت دماوند انرژی عسلویه یک کشته و دو مصدوم بر جای گذاشت. همچنین، هشت #کارگر شاغل در یک مرکز صنعتی در شهرستان بهاباد دچار مسمومیت غذایی شدند.
+
+ادامه مطلب
+↘️
+@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑
+</div>
+
+## alonews — post 123132
+
+<div align="center">
+  <a href="telegram/content/alonews_123132_1779905012.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سال ۱۹۳۶ که درهای دانشگاه تهران به روی دختران باز شد، رضا شاه قدمی برداشت که حتی از مدعیان غربی هم جلوتر بود!
+
+
+🔴جالبه بدونید اون زمان، دانشگاه کمبریج هنوز به زن‌ها مدرک رسمی نمی‌داد (تا ۱۹۴۸) و هاروارد هم سال‌ها بعد (۱۹۷۷) پذیرش کامل زنان رو قبول کرد.
+
+
+🤴رضا شاه روحت شاد.
+
+
+✅@AloNews
+</div>
+
+## alonews — post 123131
+
+<div align="center">
+  <a href="telegram/content/alonews_123131_1779905013.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈بلومبرگ: رئیس‌جمهور ترکیه، رجب طیب اردوغان، در حال تلاش است تا هم‌زمان با برگزاری مسابقه فوتبال جام جهانی میان تیم‌های ترکیه و آمریکا در لس‌آنجلس ماه آینده، دیداری با دونالد ترامپ ترتیب دهد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123130
+
+<div align="center">
+  <a href="telegram/content/alonews_123130_1779905013.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈صدا و سیما شرط جدید ایران برای توافق با آمریکا را اعلام کرد: پرداخت غرامت ۳۰۰ میلیارد دلاری از آمریکا به ایران!
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123129
+
+<div align="center">
+  <a href="telegram/content/alonews_123129_1779905013.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ درباره فوتبال: من آن را ساکر می‌نامم.
+
+
+🔴می‌دانید، انجامش ساده‌تر است، چون ما فوتبال داریم و آنها دو فوتبال دارند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123128
+
+<div align="center">
+  <a href="telegram/content/alonews_123128_1779905015.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: ما میتوانیم همین الان یک توافق خوب داشته باشیم، اما شاید نه یک توافق عالی
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123127
+
+<div align="center">
+  <img src="telegram/content/alonews_123127_1779905015.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یکی از کانفیگ فروشا بعد از وصل شدن اینترنت سکته کرد و مُرد!!!
+
+[@AloTweet]
+</div>
+
+---
 📅 بروزرسانی: 1405/03/06 21:23
 ---
 
