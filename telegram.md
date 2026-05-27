@@ -7,6 +7,18 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/06 04:12
+---
+
+## FarsiVOA — post 218763
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️شکنندگی دیپلماسی در دوحه؛ دورنمای بازار جهانی انرژی و تورم
+@FarsiVOA
+</div>
+
+---
 📅 بروزرسانی: 1405/03/06 04:02
 ---
 
