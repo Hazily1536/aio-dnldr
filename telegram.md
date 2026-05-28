@@ -7,6 +7,46 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/07 08:42
+---
+
+## alonews — post 123199
+
+<div align="center">
+  <a href="telegram/content/alonews_123199_1779945173.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈خبرنگار صداوسیما : با وجود شنیده شدن صدا، نشانه‌ای از انفجار تو بندر عباس دیده نشده
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123198
+
+<div align="center">
+  <a href="telegram/content/alonews_123198_1779945175.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وال استریت ژورنال: ایران همچنان نفت خود را می‌فروشد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 123197
+
+<div align="center">
+  <a href="telegram/content/alonews_123197_1779945175.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈قیمت نفت برنت پس از حمله موشکی سپاه به پایگاه آمریکایی در منطقه، از مرز ۹۸ دلار عبور کرد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/07 08:32
 ---
 
