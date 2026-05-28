@@ -7,6 +7,52 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/07 04:23
+---
+
+## FoxNewsTwitter — post 342333
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: Texas Senate nominee James Talarico holds general election kick-off rally in Houston https://twitter.com/i/broadcasts/1qKVmmwNMjVxB
+</div>
+
+## FoxNewsTwitter — post 342332
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_342332_1779929587.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: The U.S. struck an Iranian ground control station in Bandar Abbas that was about to launch an attack drone, officials tell FOX News.
+
+Four other Iranian one-way attack drones that posed a threat in the Strait of Hormuz were also shot down, the officials said.
+
+"These actions were measured, purely defensive, and intended to maintain the ceasefire."
+</div>
+
+## Persian_Trend_Official — post 15156
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_15156_1779929588.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تسنیم: امریکا به یک زمین سوخته در حوالی بندرعباس حمله کرده!
+
+تسنیم از نقل یک مقام نظامی می‌گوید: ساعاتی پیش یک نفتکش آمریکایی با خاموش کردن سیستم راداری خود قصد عبور از تنگه هرمز را داشت که با اقدام سریع و قاطع نیروی دریایی سپاه و شلیک به سمت آن، مجبور به توقف و بازگشت شد.
+
+در مقابل، ارتش امریکا به زمین سوخته‌ای در اطراف بندرعباس شلیک کرد که صدای انفجارها مربوط به این ماجرا بوده است؛ این شلیک هیچ خسارت جانی یا مالی به همراه نداشته است.
+
+📝 Amir
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+---
 📅 بروزرسانی: 1405/03/07 04:12
 ---
 
