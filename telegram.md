@@ -7,6 +7,65 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/07 10:13
+---
+
+## pm_afshaa — post 91713
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴اسرائیل، عزالدین البیک، فرمانده تیپ شمال غزه را ترور کرد
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## BBCPersian — post 282245
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻فیلیپه فان دورسن، بی‌بی‌سی برزیل
+
+اسرائیل به دنبال مرگ حییم وایزمن به رئیس‌جمهور جدیدی نیاز داشت. بنابراین وزارت خارجه نام یهودیان سرشناس را مطرح کرد که می‌توانستند این نقش را ایفا کنند و مهاجرت به کشور تازه‌ تاسیس را تشویق کنند.
+
+به این ترتیب، دولت داوید بن‌ گوریون نخست‌وزیر تصمیم گرفت بار دیگر یک دانشمند را برای این مقام دعوت کند و اصلی‌ترین گزینه، مشهورترین دانشمند جهان بود.
+
+آبا ابن به نمایندگی از بن‌گوریون نامه‌ای به اینشتین نوشت.
+
+او نوشت: «اسرائیل کشوری کوچک از نظر ابعاد فیزیکی است، اما می‌تواند به بزرگی دست یابد، زیرا عالی‌ترین سنت‌های معنوی و فکری مردم یهود را چه در دوران باستان و دوران مدرن به نمایش می‌گذارد.»
+
+@BBCPersian
+📷 Getty Images
+</div>
+
+## Dirty_Kids — post 390369
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_390369_1779950590.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بچه‌ها شما که نبودید، ینفر به اسم همایون راه افتاده بود تو سطح شهر از کون ملت عکس میگرفت پخش میکرد و میگفت؛ اگه جنگ نشده بود الان خیلی حال میاد با این کون‌ها زندگی کردن
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390368
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390368_1779950591.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+از ریش سفیدت خجالت بکش
+عرزشی رو سگ بگیره، جو نگیره
+
+
+@Dirty_Kids 👻
+</div>
+
+---
 📅 بروزرسانی: 1405/03/07 10:03
 ---
 
