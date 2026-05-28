@@ -7,6 +7,217 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/07 16:23
+---
+
+## VahidOOnLine — post 242598
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242598_1779972815.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بنیامین نتانیاهو، نخست وزیر اسرائیل گفت که ارتش این کشور با قدرت به حملات علیه حزب‌الله ادامه خواهد داد.
+نتانیاهو اضافه کرد که نیروهای اسرائیل از رودخانه لیتانی در جنوب لبنان عبور کرده‌اند.
+
+بنیامین نتانیاهو، سه‌شنبه اعلام کرده بود که ارتش این کشور با «نیروهای گسترده زمینی» در جنوب لبنان در حال عملیات است و کنترل «مناطق راهبردی» را در دست می‌گیرد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 242597
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_242597_1779972816.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ حمله با چاقو در ایستگاه قطار «وینترتور» سوئیس با فریاد «الله‌اکبر»
+
+♦️پلیس سوئیس اعلام کرد در پی حمله یک مرد مسلح به چاقو در ایستگاه قطار شهر «وینترتور» در نزدیکی زوریخ، سه نفر زخمی شدند. این حادثه صبح پنجشنبه رخ داد و نیروهای پلیس پس از عملیات گسترده امنیتی، مهاجم ۳۱ ساله سوئیسی را بازداشت کردند.
+براساس بیانیه پلیس، مجروحان برای درمان به بیمارستان منتقل شده‌اند و تحقیقات درباره انگیزه مهاجم ادامه دارد.
+روزنامه «بلیک» سوئیس گزارش داده ویدیویی از محل حادثه به دست آورده که در آن مردی در حالی که از سالن ایستگاه خارج می‌شود، شعار «الله‌اکبر» سر می‌دهد. شاهدان عینی گفته‌اند مهاجم چاقو در دست داشته و مردم وحشت‌زده در حال فرار و فریاد بودند.
+این حادثه باعث استقرار گسترده نیروهای پلیس و ایجاد فضای امنیتی در اطراف ایستگاه شد. مقام‌های سوئیسی هنوز درباره احتمال تروریستی بودن حمله اظهار نظر رسمی نکرده‌اند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 242596
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_242596_1779972818.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سخنرانی امیرعباس هویدا در جمع دانشجویان درباره نقش جوانان در توسعه و اداره کشور
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 242595
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242595_1779972819.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کایا کالاس، مسئول سیاست خارجی اتحادیه اروپا، در پایان نشست غیررسمی وزیران خارجه این اتحادیه در قبرس گفت که هر توافق اولیه میان آمریکا و جمهوری اسلامی، باید با مذاکرات عمیق‌تر درباره ذخایر هسته‌ای و دیگر مسائل حیاتی مرتبط با امنیت منطقه تکمیل شود.
+
+مسئول سیاست خارجی اتحادیه اروپا گفت که این اتحادیه همکاری‌های امنیتی و دفاعی خود را با کشورهای خلیج فارس افزایش می‌دهد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 242588
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_242588_1779972820.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اینترنت در ایران فقط ابزار ارتباط نیست، میدان قدرت است. هر بار که قطع یا وصل می‌شود، حکومت در واقع در حال تنظیم سطح کنترل خود بر جامعه است، اینکه مردم چه ببینند، چه بگویند، چگونه وصل شوند و تا چه اندازه بتوانند با هم عمل کنند.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 342339
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342339_1779972821.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+“They’re trying to get me elected so they can move back.”
+
+L.A. mayoral candidate Spencer Pratt reveals the strong support his campaign is getting from former Angelenos who feel they were pushed out of the city.
+
+“L.A. is incredible when you don’t let drug addicts take over the street and make moms and kids scared to go to parks or the school.” | @foxandfriends
+</div>
+
+## FoxNewsTwitter — post 342338
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342338_1779972823.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+JUST IN: Los Angeles mayoral candidate Spencer Pratt says he never wanted to become mayor before, but felt the need to step up because the city deserves a leader who tells the truth.
+
+"I don't do national politics. I don't do parties. I just say, look, they're stealing all of our tax money to give it to drug addicts, to have needles and tourniquets, and they're actually even selling the drugs to these addicts to let these people die on our sidewalks."
+
+"I want to be the compassionate one. Get these people mandatory treatment, medical treatment with doctors to help them get off of fentanyl and super meth."
+
+"These people have failed us. They've spent all of our tax money to increase problems... I never wanted to be the mayor. I just wanted somebody to tell the truth." | @foxandfriends
+</div>
+
+## pm_afshaa — post 91738
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ابوترابی، نماینده مجلس: آمریکا بعد از جام جهانی و انتخابات کنگره دوباره حمله می‌کند
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 339407
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_339407_1779972825.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بنیامین نتانیاهو، نخست وزیر اسرائیل گفت که ارتش این کشور با قدرت به حملات علیه حزب‌الله ادامه خواهد داد.
+نتانیاهو اضافه کرد که نیروهای اسرائیل از رودخانه لیتانی در جنوب لبنان عبور کرده‌اند.
+
+بنیامین نتانیاهو، سه‌شنبه اعلام کرده بود که ارتش این کشور با «نیروهای گسترده زمینی» در جنوب لبنان در حال عملیات است و کنترل «مناطق راهبردی» را در دست می‌گیرد.
+https://iranintl.com/202605286880
+</div>
+
+## IranIntlTV — post 339406
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_339406_1779972825.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کایا کالاس، مسئول سیاست خارجی اتحادیه اروپا، در پایان نشست غیررسمی وزیران خارجه این اتحادیه در قبرس گفت که هر توافق اولیه میان آمریکا و جمهوری اسلامی، باید با مذاکرات عمیق‌تر درباره ذخایر هسته‌ای و دیگر مسائل حیاتی مرتبط با امنیت منطقه تکمیل شود.
+
+مسئول سیاست خارجی اتحادیه اروپا گفت که این اتحادیه همکاری‌های امنیتی و دفاعی خود را با کشورهای خلیج فارس افزایش می‌دهد.
+https://iranintl.com/202605287506
+</div>
+
+## ManotoTV — post 105852
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105852_1779972826.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سخنرانی امیرعباس هویدا در جمع دانشجویان درباره نقش جوانان در توسعه و اداره کشور
+</div>
+
+## ManotoTV — post 105845
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105845_1779972828.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اینترنت در ایران فقط ابزار ارتباط نیست، میدان قدرت است. هر بار که قطع یا وصل می‌شود، حکومت در واقع در حال تنظیم سطح کنترل خود بر جامعه است، اینکه مردم چه ببینند، چه بگویند، چگونه وصل شوند و تا چه اندازه بتوانند با هم عمل کنند.
+</div>
+
+## FarsiVOA — post 218886
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پلیس سوئیس اعلام کرد در حمله با چاقو در ایستگاه قطار شهر وینترتور، سه نفر زخمی شدند.
+
+گزارش‌ها حاکی است مهاجم ۳۱ ساله پس از حمله بازداشت شده است.
+
+@FarsiVOA
+</div>
+
+## IranianMinds — post 20943
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20943_1779972829.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فراموش نکنید ….
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20941
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴وزیر امور خارجه پاکستان فردا برای دیدار به واشنگتن خواهد رفت و با وزیر امور خارجه آمریکا، مارکو روبیو، ملاقات خواهد کرد.
+
+
+@IranianMinds
+</div>
+
+## manototv — post 105852
+
+<div align="center">
+  <a href="telegram/content/manototv_105852_1779972829.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سخنرانی امیرعباس هویدا در جمع دانشجویان درباره نقش جوانان در توسعه و اداره کشور
+</div>
+
+## manototv — post 105845
+
+<div align="center">
+  <a href="telegram/content/manototv_105845_1779972831.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اینترنت در ایران فقط ابزار ارتباط نیست، میدان قدرت است. هر بار که قطع یا وصل می‌شود، حکومت در واقع در حال تنظیم سطح کنترل خود بر جامعه است، اینکه مردم چه ببینند، چه بگویند، چگونه وصل شوند و تا چه اندازه بتوانند با هم عمل کنند.
+</div>
+
+---
 📅 بروزرسانی: 1405/03/07 16:13
 ---
 
